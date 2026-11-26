@@ -38,6 +38,8 @@
 
 ## Avant / après
 
+![Avant / après](avant_apres.png)
+
 **Avant** (extrait d'un export) :
 ```
 Export logiciel caisse - L'Atelier Vert
