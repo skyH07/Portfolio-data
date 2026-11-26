@@ -8,6 +8,11 @@
 
 **Objectif** : donner au gérant de L'Atelier Vert (boutique fictive) une vue claire de son activité 2024-2025 en un seul écran.
 
+## Fichiers
+
+- `ventes_fictives.pbix` : rapport Power BI (à ouvrir avec Power BI Desktop)
+- `tableau_de_bord_ventes_atelier_vert.xlsx` : version Excel
+
 ## Contenu du classeur `tableau_de_bord_ventes_atelier_vert.xlsx`
 
 | Onglet | Rôle |
