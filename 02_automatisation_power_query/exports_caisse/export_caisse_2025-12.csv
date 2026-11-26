@@ -1,0 +1,800 @@
+Export logiciel caisse - L'Atelier Vert
+Période : décembre 2025;;;;;;
+;;;;;;
+N_Ticket;Date;Canal;Produit;Qte;Prix_Unitaire;Montant_HT
+T16450;2025-12-01;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16450;2025-12-01;Site web;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T16451;2025-12-01;Magasin;Cache-Pot Céramique Blanc  ;1;24,90;24,90
+T16451;2025-12-01;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16451;2025-12-01;Magasin;Pothos Doré;1;14,90;14,90
+T16451;2025-12-01;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16452;2025-12-01;Site web;Ficus Lyrata;1;39,90;39,90
+T16453;2025-12-01;Magasin;Billes D'Argile 10 L;1;7,90;7,90
+T16454;2025-12-01;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T16454;2025-12-01;Site web;Zamioculcas;1;27,90;25,11
+T16455;2025-12-02;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16455;2025-12-02;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T16456;2025-12-02;Site web;Calathea Orbifolia;1;24,90;24,90
+T16456;2025-12-02;Site web;Billes D'Argile 10 L;1;7,90;7,90
+T16457;2025-12-02;Magasin;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T16457;2025-12-02;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16458;2025-12-02;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16458;2025-12-02;Site web;Calathea Orbifolia;1;24,90;24,90
+T16458;2025-12-02;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16459;2025-12-02;Magasin;Cache-Pot Céramique Blanc ;1;24,90;24,90
+T16460;2025-12-02;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16460;2025-12-02;Site web;Gants De Jardinage;1;9,90;9,90
+T16461;2025-12-02;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16461;2025-12-02;Marketplace;Zamioculcas;1;27,90;27,90
+T16461;2025-12-02;Marketplace;Olivier En Pot;1;59,90;59,90
+T16461;2025-12-02;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16462;2025-12-02;Site web;Jardinière Balcon 60 Cm;3;16,90;50,70
+T16462;2025-12-02;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16463;2025-12-02;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16463;2025-12-02;Magasin;Gants De Jardinage;1;9,90;9,90
+T16464;2025-12-02;Magasin;Terrarium En Verre;1;34,90;33,15
+T16465;2025-12-02;Magasin;Gants De Jardinage  ;1;9,90;9,90
+T16466;2025-12-02;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16466;2025-12-02;Marketplace;Sansevieria ;1;19,90;19,90
+T16466;2025-12-02;Marketplace;Sécateur Pro;1;29,90;29,90
+T16467;2025-12-02;Magasin;Pulvérisateur 1 L;1;6,90;6,56
+T16468;2025-12-02;Magasin;Bougie Parfumée Figuier ;1;19,90;19,90
+T16468;2025-12-02;Magasin;Pothos Doré;1;14,90;14,90
+T16469;2025-12-02;Marketplace;Sansevieria;1;19,90;19,90
+T16470;2025-12-03;Magasin;Pothos Doré ;1;14,90;14,90
+T16471;2025-12-03;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16472;2025-12-03;Magasin;Monstera Deliciosa ;1;29,90;29,90
+T16473;2025-12-03;Magasin;Arrosoir 10 L;1;14,90;14,90
+T16473;2025-12-03;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16473;2025-12-03;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16473;2025-12-03;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16474;2025-12-03;Site web;Hortensia;1;22,90;22,90
+T16474;2025-12-03;Site web;Gants De Jardinage;1;9,90;9,90
+T16474;2025-12-03;Site web;Calathea Orbifolia;1;24,90;24,90
+T16475;2025-12-03;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16475;2025-12-03;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16476;2025-12-03;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16476;2025-12-03;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16476;2025-12-03;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16476;2025-12-03;Magasin;Gants De Jardinage;1;9,90;9,90
+T16477;2025-12-03;Site web;Ficus Lyrata;1;39,90;39,90
+T16478;2025-12-03;Site web;Calathea Orbifolia;1;24,90;24,90
+T16479;2025-12-03;Magasin;Sansevieria;1;19,90;19,90
+T16480;2025-12-03;Site web;Arrosoir 10 L;1;14,90;14,90
+T16481;2025-12-03;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16481;2025-12-03;Marketplace;Cache-Pot Céramique Blanc;3;24,90;74,70
+T16482;2025-12-03;Magasin;Monstera Deliciosa  ;1;29,90;29,90
+T16482;2025-12-03;Magasin;Pothos Doré;1;14,90;14,90
+T16482;2025-12-03;Magasin;Terrarium En Verre  ;1;34,90;34,90
+T16483;2025-12-03;Magasin;Bougie Parfumée Figuier   ;1;19,90;19,90
+T16483;2025-12-03;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16484;2025-12-04;Site web;Bambou Nain;1;17,90;17,90
+T16485;2025-12-04;Site web;Pothos Doré ;1;14,90;14,90
+T16485;2025-12-04;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16486;2025-12-04;Site web;Rosier Grimpant   ;1;19,90;19,90
+T16486;2025-12-04;Site web;Pothos Doré;1;14,90;14,90
+T16487;2025-12-04;Site web;Sansevieria;1;19,90;19,90
+T16487;2025-12-04;Site web;Calathea Orbifolia;1;24,90;24,90
+T16488;2025-12-04;Site web;Arrosoir 10 L;1;14,90;14,90
+T16489;2025-12-04;Site web;Zamioculcas;1;27,90;27,90
+T16489;2025-12-04;Site web;Pothos Doré;1;14,90;14,90
+T16490;2025-12-04;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16490;2025-12-04;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T16491;2025-12-04;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16491;2025-12-04;Magasin;Bambou Nain;1;17,90;17,90
+T16492;2025-12-04;Site web;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T16493;2025-12-04;Site web;Ficus Lyrata;1;39,90;39,90
+T16494;2025-12-04;Magasin;Pothos Doré;1;14,90;14,90
+T16495;2025-12-04;Magasin;Sansevieria;1;19,90;19,90
+T16496;2025-12-05;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T16496;2025-12-05;Site web;Guirlande Lumineuse;1;24,90;22,41
+T16497;2025-12-05;Site web;Gants De Jardinage;1;9,90;9,90
+T16498;2025-12-05;Marketplace;Guirlande Lumineuse ;1;24,90;24,90
+T16498;2025-12-05;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16498;2025-12-05;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16498;2025-12-05;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T16499;2025-12-05;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16499;2025-12-05;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T16499;2025-12-05;Marketplace;Billes D'Argile 10 L;1;7,90;7,90
+T16499;2025-12-05;Marketplace;Pothos Doré;1;14,90;14,90
+T16500;2025-12-05;Site web;Rosier Grimpant;1;19,90;19,90
+T16501;2025-12-05;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16502;2025-12-05;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16502;2025-12-05;Magasin;Pothos Doré;1;14,90;14,90
+T16503;2025-12-05;Marketplace;Zamioculcas   ;1;27,90;27,90
+T16504;2025-12-05;Magasin;Terrarium En Verre;1;34,90;34,90
+T16504;2025-12-05;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16505;2025-12-05;Magasin;Terrarium En Verre;1;34,90;34,90
+T16505;2025-12-05;Magasin;Zamioculcas;1;27,90;27,90
+T16506;2025-12-05;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16506;2025-12-05;Site web;Terrarium En Verre;1;34,90;34,90
+T16507;2025-12-05;Magasin;Terreau Plantes Vertes 20 L   ;1;9,90;9,90
+T16507;2025-12-05;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16507;2025-12-05;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16508;2025-12-05;Marketplace;Engrais Liquide 1 L;2;8,90;17,80
+T16509;2025-12-05;Site web;Cache-Pot Céramique Blanc;2;24,90;49,80
+T16509;2025-12-05;Site web;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T16510;2025-12-05;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T16510;2025-12-05;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16511;2025-12-05;Magasin;Zamioculcas;1;27,90;27,90
+T16511;2025-12-05;Magasin;Terrarium En Verre;1;34,90;34,90
+T16511;2025-12-05;Magasin;Sansevieria;1;19,90;19,90
+T16512;2025-12-05;Marketplace;Zamioculcas;1;27,90;27,90
+T16512;2025-12-05;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16512;2025-12-05;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16513;2025-12-06;Magasin;Sansevieria;1;19,90;19,90
+T16514;2025-12-06;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16515;2025-12-06;Magasin;Ficus Lyrata;1;39,90;39,90
+T16516;2025-12-06;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16516;2025-12-06;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16516;2025-12-06;Site web;Bambou Nain;1;17,90;17,90
+T16517;2025-12-06;Marketplace;Guirlande Lumineuse;1;24,90;24,90
+T16518;2025-12-06;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16518;2025-12-06;Marketplace;Sansevieria;1;19,90;19,90
+T16519;2025-12-06;Site web;Olivier En Pot;1;59,90;59,90
+T16520;2025-12-06;Site web;Jardinière Balcon 60 Cm;3;16,90;50,70
+T16521;2025-12-06;Site web;Calathea Orbifolia;1;24,90;24,90
+T16522;2025-12-06;Site web;Sansevieria   ;1;19,90;19,90
+T16523;2025-12-06;Site web;Terrarium En Verre;1;34,90;34,90
+T16523;2025-12-06;Site web;Engrais Liquide 1 L;1;8,90;8,90
+T16523;2025-12-06;Site web;Monstera Deliciosa;1;29,90;29,90
+T16524;2025-12-06;Site web;Cache-Pot Céramique Blanc;1;24,90;24,90
+T16525;2025-12-06;Magasin;Olivier En Pot ;1;59,90;59,90
+T16526;2025-12-06;Marketplace;Guirlande Lumineuse ;1;24,90;24,90
+T16526;2025-12-06;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16526;2025-12-06;Marketplace;Arrosoir 10 L;1;14,90;14,90
+T16527;2025-12-06;Magasin;Sansevieria;1;19,90;19,90
+T16527;2025-12-06;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16528;2025-12-06;Magasin;Lavande;6;8,90;50,73
+T16529;2025-12-06;Magasin;Ficus Lyrata   ;1;39,90;39,90
+T16529;2025-12-06;Magasin;Pothos Doré;1;14,90;14,90
+T16529;2025-12-06;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16530;2025-12-06;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T16531;2025-12-06;Magasin;Sécateur Pro;1;29,90;29,90
+T16531;2025-12-06;Magasin;Gants De Jardinage;1;9,90;9,40
+T16532;2025-12-06;Magasin;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16533;2025-12-06;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16533;2025-12-06;Site web;Calathea Orbifolia;1;24,90;24,90
+T16534;2025-12-06;Magasin;Bougie Parfumée Figuier;1;19,90;18,90
+T16535;2025-12-07;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16535;2025-12-07;Magasin;Bougie Parfumée Figuier;1;19,90;18,90
+T16535;2025-12-07;Magasin;Terreau Universel 40 L;2;11,90;23,80
+T16536;2025-12-07;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16536;2025-12-07;Magasin;Ficus Lyrata;1;39,90;39,90
+T16537;2025-12-07;Marketplace;Ficus Lyrata  ;1;39,90;39,90
+T16538;2025-12-07;Site web;Bougie Parfumée Figuier ;1;19,90;19,90
+T16539;2025-12-07;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16539;2025-12-07;Magasin;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T16540;2025-12-07;Magasin;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16540;2025-12-07;Magasin;Jardinière Balcon 60 Cm ;1;16,90;16,05
+T16541;2025-12-07;Magasin;Engrais Liquide 1 L;3;8,90;26,70
+T16541;2025-12-07;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16542;2025-12-07;Magasin;Bambou Nain;1;17,90;17,90
+T16543;2025-12-07;Site web;Calathea Orbifolia;1;24,90;24,90
+T16543;2025-12-07;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16543;2025-12-07;Site web;Zamioculcas;1;27,90;27,90
+T16544;2025-12-08;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16545;2025-12-08;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16546;2025-12-08;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16547;2025-12-08;Site web;Monstera Deliciosa;1;29,90;29,90
+T16547;2025-12-08;Site web;Ficus Lyrata  ;1;39,90;35,91
+T16548;2025-12-08;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16549;2025-12-08;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16549;2025-12-08;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16550;2025-12-08;Magasin;Terrarium En Verre;1;34,90;34,90
+T16550;2025-12-08;Magasin;Billes D'Argile 10 L;2;7,90;15,80
+T16550;2025-12-08;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16551;2025-12-08;Marketplace;Zamioculcas;1;27,90;27,90
+T16551;2025-12-08;Marketplace;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16552;2025-12-08;Site web;Terrarium En Verre;1;34,90;34,90
+T16552;2025-12-08;Site web;Guirlande Lumineuse ;1;24,90;24,90
+T16552;2025-12-08;Site web;Terreau Plantes Vertes 20 L ;1;9,90;9,90
+T16552;2025-12-08;Site web;Terreau Universel 40 L;1;11,90;11,90
+T16553;2025-12-08;Magasin;Terrarium En Verre;1;34,90;34,90
+T16553;2025-12-08;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16554;2025-12-08;Magasin;Citronnier;1;49,90;49,90
+T16555;2025-12-08;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16556;2025-12-08;Site web;Gants De Jardinage;1;9,90;9,90
+T16556;2025-12-08;Site web;Pothos Doré;1;14,90;13,41
+T16556;2025-12-08;Site web;Arrosoir 10 L;1;14,90;13,41
+T16557;2025-12-08;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16558;2025-12-08;Site web;Pulvérisateur 1 L   ;1;6,90;6,90
+T16558;2025-12-08;Site web;Cache-Pot Céramique Blanc;1;24,90;24,90
+T16559;2025-12-08;Site web;Guirlande Lumineuse  ;1;24,90;22,41
+T16560;2025-12-09;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T16560;2025-12-09;Site web;Billes D'Argile 10 L;1;7,90;7,90
+T16560;2025-12-09;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16561;2025-12-09;Site web;Sansevieria;1;19,90;19,90
+T16562;2025-12-09;Site web;Lavande;1;8,90;8,90
+T16562;2025-12-09;Site web;Pothos Doré;1;14,90;14,90
+T16563;2025-12-09;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T16563;2025-12-09;Site web;Pothos Doré;1;14,90;14,90
+T16564;2025-12-09;Marketplace;Citronnier;1;49,90;49,90
+T16564;2025-12-09;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16564;2025-12-09;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T16565;2025-12-09;Marketplace;Ficus Lyrata  ;1;39,90;39,90
+T16565;2025-12-09;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16566;2025-12-09;Magasin;Gants De Jardinage;1;9,90;9,90
+T16566;2025-12-09;Magasin;Lavande  ;1;8,90;8,90
+T16566;2025-12-09;Magasin;Zamioculcas;1;27,90;27,90
+T16567;2025-12-09;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16567;2025-12-09;Magasin;Ficus Lyrata;1;39,90;39,90
+T16568;2025-12-09;Site web;Pothos Doré;1;14,90;14,90
+T16568;2025-12-09;Site web;Terrarium En Verre;1;34,90;31,41
+T16569;2025-12-10;Site web;Terrarium En Verre;1;34,90;34,90
+T16569;2025-12-10;Site web;Calathea Orbifolia;1;24,90;24,90
+T16570;2025-12-10;Magasin;Terreau Universel 40 L   ;1;11,90;11,90
+T16571;2025-12-10;Site web;Calathea Orbifolia;1;24,90;24,90
+T16572;2025-12-10;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16572;2025-12-10;Magasin;Guirlande Lumineuse   ;1;24,90;24,90
+T16572;2025-12-10;Magasin;Sansevieria;1;19,90;19,90
+T16573;2025-12-10;Marketplace;Zamioculcas;1;27,90;27,90
+T16574;2025-12-10;Site web;Pothos Doré;1;14,90;14,90
+;;;;;;
+T16574;2025-12-10;Site web;Monstera Deliciosa;1;29,90;26,91
+T16574;2025-12-10;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16575;2025-12-10;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16576;2025-12-10;Marketplace;Gants De Jardinage;1;9,90;9,90
+T16576;2025-12-10;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T16576;2025-12-10;Marketplace;Lavande;1;8,90;8,90
+T16577;2025-12-10;Magasin;Sansevieria   ;1;19,90;19,90
+T16578;2025-12-10;Magasin;Sansevieria;1;19,90;19,90
+T16578;2025-12-10;Magasin;Ficus Lyrata;1;39,90;39,90
+T16579;2025-12-10;Site web;Lavande;1;8,90;8,90
+T16579;2025-12-10;Site web;Gants De Jardinage;1;9,90;9,90
+T16579;2025-12-10;Site web;Bougie Parfumée Figuier;1;19,90;17,91
+T16579;2025-12-10;Site web;Terrarium En Verre;1;34,90;34,90
+T16580;2025-12-10;Marketplace;Monstera Deliciosa  ;1;29,90;29,90
+T16581;2025-12-10;Site web;Coffret Cadeau Plante;1;44,90;40,41
+T16582;2025-12-11;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T16583;2025-12-11;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16583;2025-12-11;Site web;Pot Terre Cuite 35 Cm;1;19,90;17,91
+T16583;2025-12-11;Site web;Rosier Grimpant;1;19,90;19,90
+T16583;2025-12-11;Site web;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T16584;2025-12-11;Magasin;Ficus Lyrata;1;39,90;39,90
+T16584;2025-12-11;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16585;2025-12-11;Site web;Pothos Doré;1;14,90;14,90
+T16585;2025-12-11;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16586;2025-12-11;Magasin;Terrarium En Verre;1;34,90;34,90
+T16587;2025-12-11;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T16587;2025-12-11;Magasin;Cache-Pot Céramique Blanc;1;24,90;23,65
+T16587;2025-12-11;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16588;2025-12-11;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16589;2025-12-11;Marketplace;Zamioculcas;1;27,90;27,90
+T16590;2025-12-11;Site web;Zamioculcas;1;27,90;25,11
+T16591;2025-12-11;Site web;Terrarium En Verre;1;34,90;34,90
+T16592;2025-12-11;Site web;Terrarium En Verre;1;34,90;34,90
+T16593;2025-12-11;Marketplace;Monstera Deliciosa  ;1;29,90;29,90
+T16594;2025-12-11;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16595;2025-12-11;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16596;2025-12-11;Site web;Zamioculcas;1;27,90;27,90
+T16597;2025-12-11;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T16597;2025-12-11;Site web;Gants De Jardinage;1;9,90;8,91
+T16597;2025-12-11;Site web;Calathea Orbifolia  ;1;24,90;24,90
+T16598;2025-12-11;Magasin;Terrarium En Verre;1;34,90;34,90
+T16598;2025-12-11;Magasin;Rosier Grimpant;1;19,90;19,90
+T16599;2025-12-11;Magasin;Arrosoir 10 L;1;14,90;14,90
+T16599;2025-12-11;Magasin;Jardinière Balcon 60 Cm;2;16,90;33,80
+T16599;2025-12-11;Magasin;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16600;2025-12-11;Magasin;Calathea Orbifolia  ;1;24,90;24,90
+T16600;2025-12-11;Magasin;Zamioculcas;1;27,90;27,90
+T16600;2025-12-11;Magasin;Sansevieria;1;19,90;19,90
+T16601;2025-12-11;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16601;2025-12-11;Magasin;Engrais Liquide 1 L;1;8,90;8,90
+T16601;2025-12-11;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16601;2025-12-11;Magasin;Zamioculcas;1;27,90;27,90
+T16602;2025-12-11;Site web;Monstera Deliciosa;1;29,90;29,90
+T16603;2025-12-12;Magasin;Cache-Pot Céramique Blanc;1;24,90;24,90
+T16603;2025-12-12;Magasin;Ficus Lyrata;1;39,90;39,90
+T16604;2025-12-12;Site web;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T16604;2025-12-12;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16605;2025-12-12;Magasin;Terreau Universel 40 L;2;11,90;23,80
+T16605;2025-12-12;Magasin;Coffret Cadeau Plante  ;1;44,90;44,90
+T16606;2025-12-12;Magasin;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T16606;2025-12-12;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16606;2025-12-12;Magasin;Sansevieria;1;19,90;19,90
+T16607;2025-12-12;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16608;2025-12-12;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16608;2025-12-12;Site web;Terrarium En Verre;1;34,90;34,90
+T16608;2025-12-12;Site web;Monstera Deliciosa;1;29,90;29,90
+T16609;2025-12-12;Site web;Calathea Orbifolia;1;24,90;24,90
+T16609;2025-12-12;Site web;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T16610;2025-12-12;Site web;Gants De Jardinage   ;1;9,90;8,91
+T16610;2025-12-12;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16611;2025-12-12;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16611;2025-12-12;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16612;2025-12-12;Magasin;Zamioculcas;1;27,90;27,90
+T16613;2025-12-12;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16614;2025-12-12;Magasin;Pot Terre Cuite 20 Cm  ;1;9,90;9,90
+T16614;2025-12-12;Magasin;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T16615;2025-12-12;Site web;Terrarium En Verre;1;34,90;34,90
+T16616;2025-12-12;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16617;2025-12-13;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16617;2025-12-13;Site web;Monstera Deliciosa  ;1;29,90;29,90
+T16618;2025-12-13;Site web;Pulvérisateur 1 L;1;6,90;6,21
+T16618;2025-12-13;Site web;Calathea Orbifolia ;1;24,90;24,90
+T16619;2025-12-13;Magasin;Terrarium En Verre;1;34,90;34,90
+T16619;2025-12-13;Magasin;Pot Terre Cuite 20 Cm;3;9,90;29,70
+T16620;2025-12-13;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16621;2025-12-13;Site web;Olivier En Pot;1;59,90;59,90
+T16621;2025-12-13;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16621;2025-12-13;Site web;Calathea Orbifolia;1;24,90;24,90
+T16622;2025-12-13;Site web;Cache-Pot Céramique Blanc;3;24,90;74,70
+T16622;2025-12-13;Site web;Terrarium En Verre   ;1;34,90;34,90
+T16623;2025-12-13;Site web;Terrarium En Verre;1;34,90;34,90
+T16624;2025-12-13;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16624;2025-12-13;Magasin;Engrais Liquide 1 L;1;8,90;8,90
+T16625;2025-12-13;Site web;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T16626;2025-12-13;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16626;2025-12-13;Site web;Jardinière Balcon 60 Cm;1;16,90;16,90
+T16627;2025-12-13;Site web;Calathea Orbifolia;1;24,90;22,41
+T16628;2025-12-13;Magasin;Sansevieria;1;19,90;19,90
+T16629;2025-12-13;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T16630;2025-12-13;Magasin;Terrarium En Verre;1;34,90;34,90
+T16630;2025-12-13;Magasin;Lavande;6;8,90;53,40
+T16630;2025-12-13;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16631;2025-12-13;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16632;2025-12-13;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16633;2025-12-13;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16634;2025-12-13;Magasin;Sansevieria;1;19,90;19,90
+T16635;2025-12-13;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16636;2025-12-13;Marketplace;Cache-Pot Céramique Blanc;3;24,90;74,70
+T16636;2025-12-13;Marketplace;Pothos Doré;1;14,90;14,90
+T16636;2025-12-13;Marketplace;Zamioculcas;1;27,90;27,90
+T16637;2025-12-13;Site web;Monstera Deliciosa;1;29,90;29,90
+T16637;2025-12-13;Site web;Terrarium En Verre;1;34,90;34,90
+T16637;2025-12-13;Site web;Zamioculcas;1;27,90;27,90
+T16637;2025-12-13;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16638;2025-12-13;Site web;Sansevieria;1;19,90;19,90
+T16638;2025-12-13;Site web;Ficus Lyrata;1;39,90;39,90
+T16638;2025-12-13;Site web;Terreau Universel 40 L;1;11,90;11,90
+T16639;2025-12-13;Magasin;Zamioculcas;1;27,90;26,50
+T16639;2025-12-13;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16640;2025-12-13;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16641;2025-12-13;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16642;2025-12-13;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16642;2025-12-13;Magasin;Rosier Grimpant ;1;19,90;19,90
+T16643;2025-12-13;Site web;Terrarium En Verre;1;34,90;34,90
+T16643;2025-12-13;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T16644;2025-12-13;Magasin;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T16644;2025-12-13;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16645;2025-12-13;Magasin;Cache-Pot Céramique Blanc;3;24,90;74,70
+T16646;2025-12-13;Site web;Sansevieria;1;19,90;19,90
+T16646;2025-12-13;Site web;Terrarium En Verre;1;34,90;34,90
+T16646;2025-12-13;Site web;Monstera Deliciosa;1;29,90;29,90
+T16647;2025-12-13;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16647;2025-12-13;Marketplace;Pot Terre Cuite 20 Cm   ;1;9,90;9,90
+T16648;2025-12-13;Site web;Zamioculcas;1;27,90;27,90
+T16648;2025-12-13;Site web;Sansevieria;1;19,90;19,90
+T16648;2025-12-13;Site web;Monstera Deliciosa;1;29,90;29,90
+T16649;2025-12-13;Magasin;Engrais Liquide 1 L ;3;8,90;26,70
+T16649;2025-12-13;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16650;2025-12-14;Site web;Zamioculcas;1;27,90;27,90
+T16650;2025-12-14;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16651;2025-12-14;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16652;2025-12-14;Magasin;Terrarium En Verre;1;34,90;34,90
+T16653;2025-12-14;Magasin;Zamioculcas;1;27,90;27,90
+T16654;2025-12-14;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16655;2025-12-14;Site web;Bougie Parfumée Figuier   ;1;19,90;19,90
+T16655;2025-12-14;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16655;2025-12-14;Site web;Zamioculcas ;1;27,90;27,90
+T16656;2025-12-14;Magasin;Pothos Doré;1;14,90;14,90
+T16657;2025-12-14;Site web;Sansevieria   ;1;19,90;19,90
+T16657;2025-12-14;Site web;Zamioculcas;1;27,90;27,90
+T16657;2025-12-14;Site web;Pothos Doré;1;14,90;13,41
+T16658;2025-12-14;Site web;Zamioculcas;1;27,90;27,90
+T16659;2025-12-14;Marketplace;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T16660;2025-12-14;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16660;2025-12-14;Magasin;Pothos Doré;1;14,90;14,90
+T16661;2025-12-14;Site web;Zamioculcas;1;27,90;27,90
+T16662;2025-12-14;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16662;2025-12-14;Marketplace;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16663;2025-12-14;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16663;2025-12-14;Magasin;Cache-Pot Céramique Blanc;3;24,90;74,70
+T16664;2025-12-14;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16664;2025-12-14;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16665;2025-12-14;Marketplace;Coffret Cadeau Plante ;1;44,90;44,90
+T16666;2025-12-14;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16666;2025-12-14;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16667;2025-12-14;Site web;Engrais Liquide 1 L;1;8,90;8,90
+T16667;2025-12-14;Site web;Gants De Jardinage;1;9,90;9,90
+T16667;2025-12-14;Site web;Guirlande Lumineuse;1;24,90;22,41
+T16667;2025-12-14;Site web;Sansevieria;1;19,90;19,90
+T16668;2025-12-15;Magasin;Terrarium En Verre;1;34,90;34,90
+T16669;2025-12-15;Magasin;Gants De Jardinage;1;9,90;9,90
+T16670;2025-12-15;Magasin;Gants De Jardinage;1;9,90;9,90
+T16671;2025-12-15;Site web;Arrosoir 10 L;1;14,90;14,90
+T16671;2025-12-15;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16672;2025-12-15;Magasin;Lavande;1;8,90;8,46
+T16672;2025-12-15;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16673;2025-12-15;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16673;2025-12-15;Site web;Gants De Jardinage;1;9,90;9,90
+T16674;2025-12-15;Magasin;Arrosoir 10 L;1;14,90;14,90
+T16675;2025-12-15;Marketplace;Pothos Doré;1;14,90;14,90
+T16675;2025-12-15;Marketplace;Zamioculcas;1;27,90;27,90
+T16675;2025-12-15;Marketplace;Sansevieria;1;19,90;19,90
+T16676;2025-12-15;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T16677;2025-12-15;Magasin;Lavande;1;8,90;8,90
+T16677;2025-12-15;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16678;2025-12-16;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16678;2025-12-16;Magasin;Gants De Jardinage;1;9,90;9,90
+T16679;2025-12-16;Magasin;Pothos Doré;1;14,90;14,90
+T16680;2025-12-16;Marketplace;Sansevieria;1;19,90;19,90
+T16681;2025-12-16;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16681;2025-12-16;Magasin;Arrosoir 10 L;1;14,90;14,90
+T16681;2025-12-16;Magasin;Terrarium En Verre;1;34,90;34,90
+T16682;2025-12-16;Magasin;Terrarium En Verre   ;1;34,90;34,90
+T16682;2025-12-16;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16683;2025-12-16;Magasin;Zamioculcas;1;27,90;27,90
+T16684;2025-12-16;Magasin;Zamioculcas;1;27,90;27,90
+T16684;2025-12-16;Magasin;Arrosoir 10 L;1;14,90;14,90
+T16685;2025-12-16;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16685;2025-12-16;Magasin;Pothos Doré;1;14,90;14,90
+T16686;2025-12-16;Site web;Zamioculcas;1;27,90;27,90
+T16687;2025-12-16;Site web;Olivier En Pot;1;59,90;59,90
+T16688;2025-12-16;Marketplace;Pothos Doré ;1;14,90;14,90
+T16688;2025-12-16;Marketplace;Lavande;3;8,90;26,70
+T16689;2025-12-16;Magasin;Terrarium En Verre;1;34,90;33,15
+T16690;2025-12-16;Magasin;Gants De Jardinage;1;9,90;9,90
+T16690;2025-12-16;Magasin;Sansevieria;1;19,90;18,90
+T16690;2025-12-16;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16690;2025-12-16;Magasin;Terrarium En Verre;1;34,90;34,90
+T16691;2025-12-16;Magasin;Gants De Jardinage;1;9,90;9,90
+T16691;2025-12-16;Magasin;Sansevieria;1;19,90;19,90
+T16691;2025-12-16;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,40
+T16692;2025-12-17;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16692;2025-12-17;Marketplace;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16693;2025-12-17;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16693;2025-12-17;Site web;Bougie Parfumée Figuier  ;1;19,90;19,90
+T16694;2025-12-17;Site web;Bougie Parfumée Figuier ;1;19,90;19,90
+T16695;2025-12-17;Site web;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T16695;2025-12-17;Site web;Guirlande Lumineuse   ;1;24,90;22,41
+T16696;2025-12-17;Marketplace;Pothos Doré   ;1;14,90;14,90
+T16696;2025-12-17;Marketplace;Sansevieria;1;19,90;19,90
+T16697;2025-12-17;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16697;2025-12-17;Site web;Ficus Lyrata;1;39,90;39,90
+T16698;2025-12-17;Site web;Sécateur Pro;1;29,90;29,90
+T16698;2025-12-17;Site web;Cache-Pot Céramique Blanc;2;24,90;44,82
+T16699;2025-12-17;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16699;2025-12-17;Site web;Sansevieria;1;19,90;19,90
+T16699;2025-12-17;Site web;Sécateur Pro;1;29,90;29,90
+T16699;2025-12-17;Site web;Zamioculcas;1;27,90;27,90
+T16700;2025-12-17;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16700;2025-12-17;Marketplace;Terrarium En Verre  ;1;34,90;34,90
+T16701;2025-12-17;Magasin;Cache-Pot Céramique Blanc ;1;24,90;24,90
+T16702;2025-12-18;Magasin;Sansevieria;1;19,90;19,90
+T16703;2025-12-18;Site web;Calathea Orbifolia;1;24,90;24,90
+T16704;2025-12-18;Magasin;Coffret Cadeau Plante   ;1;44,90;44,90
+T16704;2025-12-18;Magasin;Bougie Parfumée Figuier;1;19,90;18,90
+T16705;2025-12-18;Magasin;Ficus Lyrata;1;39,90;37,90
+T16705;2025-12-18;Magasin;Pothos Doré;1;14,90;14,90
+T16705;2025-12-18;Magasin;Sansevieria;1;19,90;19,90
+T16706;2025-12-18;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T16706;2025-12-18;Site web;Zamioculcas   ;1;27,90;27,90
+T16707;2025-12-18;Site web;Billes D'Argile 10 L;1;7,90;7,90
+T16708;2025-12-18;Marketplace;Guirlande Lumineuse;1;24,90;24,90
+T16708;2025-12-18;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16709;2025-12-18;Magasin;Zamioculcas;1;27,90;27,90
+T16710;2025-12-18;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16711;2025-12-18;Site web;Billes D'Argile 10 L;2;7,90;15,80
+T16711;2025-12-18;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T16712;2025-12-18;Site web;Terrarium En Verre;1;34,90;34,90
+T16713;2025-12-18;Magasin;Arrosoir 10 L;1;14,90;14,90
+T16714;2025-12-18;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16715;2025-12-19;Site web;Lavande;1;8,90;8,90
+T16715;2025-12-19;Site web;Gants De Jardinage  ;1;9,90;9,90
+T16715;2025-12-19;Site web;Sécateur Pro;1;29,90;29,90
+T16716;2025-12-19;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16717;2025-12-19;Magasin;Sansevieria ;1;19,90;19,90
+T16717;2025-12-19;Magasin;Sécateur Pro;1;29,90;29,90
+T16717;2025-12-19;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16718;2025-12-19;Site web;Terrarium En Verre;1;34,90;34,90
+T16719;2025-12-19;Magasin;Citronnier;1;49,90;49,90
+T16720;2025-12-19;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T16720;2025-12-19;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16721;2025-12-19;Site web;Monstera Deliciosa;1;29,90;29,90
+T16721;2025-12-19;Site web;Zamioculcas;1;27,90;27,90
+T16721;2025-12-19;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T16722;2025-12-19;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16723;2025-12-19;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16723;2025-12-19;Magasin;Cache-Pot Céramique Blanc;1;24,90;24,90
+T16723;2025-12-19;Magasin;Gants De Jardinage;1;9,90;9,90
+T16723;2025-12-19;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16724;2025-12-19;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16724;2025-12-19;Magasin;Pothos Doré;1;14,90;14,90
+T16725;2025-12-19;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16725;2025-12-19;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16726;2025-12-19;Site web;Guirlande Lumineuse ;1;24,90;24,90
+T16727;2025-12-19;Magasin;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16728;2025-12-19;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16728;2025-12-19;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16729;2025-12-19;Magasin;Rosier Grimpant;1;19,90;18,90
+T16729;2025-12-19;Magasin;Ficus Lyrata;1;39,90;39,90
+T16730;2025-12-19;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16730;2025-12-19;Marketplace;Arrosoir 10 L;1;14,90;14,90
+T16731;2025-12-19;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T16732;2025-12-19;Site web;Rosier Grimpant;1;19,90;19,90
+T16733;2025-12-19;Marketplace;Engrais Liquide 1 L   ;1;8,90;8,90
+T16733;2025-12-19;Marketplace;Bambou Nain   ;1;17,90;17,90
+T16734;2025-12-20;Site web;Pothos Doré;1;14,90;14,90
+T16735;2025-12-20;Marketplace;Pothos Doré;1;14,90;14,90
+T16736;2025-12-20;Magasin;Zamioculcas;1;27,90;27,90
+T16737;2025-12-20;Site web;Terrarium En Verre;1;34,90;34,90
+T16738;2025-12-20;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16739;2025-12-20;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16740;2025-12-20;Magasin;Terrarium En Verre;1;34,90;34,90
+T16740;2025-12-20;Magasin;Sansevieria;1;19,90;19,90
+T16741;2025-12-20;Site web;Guirlande Lumineuse;1;24,90;22,41
+T16741;2025-12-20;Site web;Ficus Lyrata;1;39,90;39,90
+T16741;2025-12-20;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16742;2025-12-20;Site web;Zamioculcas;1;27,90;27,90
+T16743;2025-12-20;Marketplace;Jardinière Balcon 60 Cm;2;16,90;33,80
+T16743;2025-12-20;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16744;2025-12-20;Site web;Monstera Deliciosa;1;29,90;29,90
+T16745;2025-12-20;Magasin;Billes D'Argile 10 L;1;7,90;7,90
+T16745;2025-12-20;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16746;2025-12-20;Site web;Gants De Jardinage;1;9,90;9,90
+T16746;2025-12-20;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16747;2025-12-20;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16747;2025-12-20;Marketplace;Lavande;6;8,90;53,40
+T16748;2025-12-20;Site web;Ficus Lyrata;1;39,90;39,90
+T16748;2025-12-20;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16749;2025-12-20;Marketplace;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16750;2025-12-20;Site web;Ficus Lyrata;1;39,90;39,90
+T16751;2025-12-20;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16752;2025-12-20;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16752;2025-12-20;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16752;2025-12-20;Marketplace;Guirlande Lumineuse;1;24,90;24,90
+T16752;2025-12-20;Marketplace;Ficus Lyrata;1;39,90;39,90
+T16753;2025-12-20;Marketplace;Jardinière Balcon 60 Cm;2;16,90;33,80
+T16754;2025-12-20;Site web;Cache-Pot Céramique Blanc;2;24,90;49,80
+T16754;2025-12-20;Site web;Lavande;3;8,90;26,70
+T16754;2025-12-20;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16755;2025-12-20;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16755;2025-12-20;Magasin;Sécateur Pro;1;29,90;29,90
+T16756;2025-12-20;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16756;2025-12-20;Magasin;Pothos Doré  ;1;14,90;14,90
+T16756;2025-12-20;Magasin;Terrarium En Verre;1;34,90;34,90
+T16757;2025-12-21;Magasin;Gants De Jardinage;1;9,90;9,90
+T16758;2025-12-21;Magasin;Sansevieria;1;19,90;19,90
+T16759;2025-12-21;Site web;Sécateur Pro;1;29,90;26,91
+T16759;2025-12-21;Site web;Olivier En Pot;1;59,90;59,90
+T16759;2025-12-21;Site web;Pothos Doré;1;14,90;14,90
+T16760;2025-12-21;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16761;2025-12-21;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16762;2025-12-21;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16763;2025-12-21;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16764;2025-12-21;Magasin;Arrosoir 10 L;1;14,90;14,16
+T16765;2025-12-21;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16765;2025-12-21;Site web;Monstera Deliciosa;1;29,90;26,91
+T16766;2025-12-21;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16767;2025-12-22;Site web;Guirlande Lumineuse   ;1;24,90;24,90
+T16768;2025-12-22;Magasin;Gants De Jardinage ;1;9,90;9,90
+T16768;2025-12-22;Magasin;Sansevieria;1;19,90;19,90
+T16769;2025-12-22;Site web;Sansevieria;1;19,90;19,90
+T16769;2025-12-22;Site web;Pothos Doré ;1;14,90;14,90
+T16770;2025-12-22;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T16770;2025-12-22;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16770;2025-12-22;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T16770;2025-12-22;Marketplace;Guirlande Lumineuse ;1;24,90;24,90
+T16771;2025-12-22;Magasin;Hortensia   ;1;22,90;22,90
+T16771;2025-12-22;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16772;2025-12-22;Site web;Pothos Doré;1;14,90;14,90
+T16772;2025-12-22;Site web;Sansevieria;1;19,90;19,90
+T16772;2025-12-22;Site web;Billes D'Argile 10 L;1;7,90;7,90
+T16773;2025-12-22;Magasin;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16773;2025-12-22;Magasin;Jardinière Balcon 60 Cm ;1;16,90;16,90
+T16773;2025-12-22;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16774;2025-12-23;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16775;2025-12-23;Marketplace;Ficus Lyrata;1;39,90;39,90
+T16775;2025-12-23;Marketplace;Pothos Doré;1;14,90;14,90
+T16776;2025-12-23;Site web;Gants De Jardinage;1;9,90;9,90
+T16777;2025-12-23;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T16778;2025-12-23;Site web;Sansevieria;1;19,90;19,90
+T16779;2025-12-23;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16780;2025-12-23;Magasin;Terrarium En Verre;1;34,90;34,90
+T16780;2025-12-23;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16780;2025-12-23;Magasin;Guirlande Lumineuse;1;24,90;23,65
+T16781;2025-12-24;Magasin;Sécateur Pro;1;29,90;29,90
+T16782;2025-12-24;Magasin;Pothos Doré;1;14,90;14,90
+T16782;2025-12-24;Magasin;Pulvérisateur 1 L;1;6,90;6,56
+T16782;2025-12-24;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16783;2025-12-24;Site web;Monstera Deliciosa;1;29,90;26,91
+T16783;2025-12-24;Site web;Ficus Lyrata;1;39,90;39,90
+T16783;2025-12-24;Site web;Terreau Universel 40 L;1;11,90;11,90
+T16783;2025-12-24;Site web;Arrosoir 10 L;1;14,90;13,41
+T16784;2025-12-24;Site web;Pothos Doré;1;14,90;14,90
+;;;;;;
+T16785;2025-12-24;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16785;2025-12-24;Site web;Zamioculcas ;1;27,90;27,90
+T16786;2025-12-24;Magasin;Engrais Liquide 1 L  ;1;8,90;8,90
+T16787;2025-12-24;Site web;Lavande;3;8,90;26,70
+T16787;2025-12-24;Site web;Terrarium En Verre;1;34,90;34,90
+T16787;2025-12-24;Site web;Bougie Parfumée Figuier;1;19,90;17,91
+T16788;2025-12-24;Site web;Bougie Parfumée Figuier ;1;19,90;17,91
+T16788;2025-12-24;Site web;Engrais Liquide 1 L ;3;8,90;26,70
+T16788;2025-12-24;Site web;Guirlande Lumineuse ;1;24,90;24,90
+T16789;2025-12-24;Site web;Monstera Deliciosa;1;29,90;26,91
+T16790;2025-12-24;Site web;Zamioculcas;1;27,90;27,90
+T16790;2025-12-24;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16790;2025-12-24;Site web;Pothos Doré;1;14,90;14,90
+T16791;2025-12-24;Magasin;Lavande;6;8,90;53,40
+T16792;2025-12-24;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16792;2025-12-24;Magasin;Sansevieria ;1;19,90;19,90
+T16792;2025-12-24;Magasin;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T16793;2025-12-24;Site web;Terrarium En Verre;1;34,90;34,90
+T16793;2025-12-24;Site web;Monstera Deliciosa;1;29,90;29,90
+T16793;2025-12-24;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16793;2025-12-24;Site web;Pothos Doré;1;14,90;14,90
+T16794;2025-12-25;Magasin;Monstera Deliciosa ;1;29,90;29,90
+T16795;2025-12-25;Marketplace;Guirlande Lumineuse;1;24,90;24,90
+T16795;2025-12-25;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16795;2025-12-25;Marketplace;Arrosoir 10 L;1;14,90;14,90
+T16795;2025-12-25;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16796;2025-12-25;Site web;Sécateur Pro;1;29,90;29,90
+T16797;2025-12-25;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16798;2025-12-25;Magasin;Cache-Pot Céramique Blanc ;1;24,90;24,90
+T16799;2025-12-25;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16799;2025-12-25;Site web;Cache-Pot Céramique Blanc;1;24,90;24,90
+T16799;2025-12-25;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16800;2025-12-25;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16800;2025-12-25;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16800;2025-12-25;Magasin;Pothos Doré;1;14,90;14,90
+T16801;2025-12-25;Site web;Ficus Lyrata;1;39,90;39,90
+T16802;2025-12-25;Magasin;Pothos Doré;1;14,90;14,16
+T16802;2025-12-25;Magasin;Ficus Lyrata;1;39,90;39,90
+T16803;2025-12-25;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T16804;2025-12-25;Magasin;Arrosoir 10 L;1;14,90;14,90
+T16805;2025-12-25;Site web;Monstera Deliciosa;1;29,90;29,90
+T16806;2025-12-25;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16806;2025-12-25;Magasin;Gants De Jardinage;1;9,90;9,90
+T16806;2025-12-25;Magasin;Coffret Cadeau Plante ;1;44,90;44,90
+T16807;2025-12-25;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T16807;2025-12-25;Marketplace;Terrarium En Verre  ;1;34,90;34,90
+T16808;2025-12-26;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16808;2025-12-26;Site web;Terreau Universel 40 L;1;11,90;11,90
+T16809;2025-12-26;Site web;Arrosoir 10 L  ;1;14,90;14,90
+T16809;2025-12-26;Site web;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T16810;2025-12-26;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16811;2025-12-26;Magasin;Pothos Doré;1;14,90;14,90
+T16811;2025-12-26;Magasin;Zamioculcas;1;27,90;27,90
+T16812;2025-12-26;Magasin;Terrarium En Verre;1;34,90;34,90
+T16813;2025-12-26;Site web;Sansevieria;1;19,90;19,90
+T16813;2025-12-26;Site web;Terrarium En Verre;1;34,90;34,90
+T16814;2025-12-26;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16815;2025-12-26;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16816;2025-12-26;Magasin;Sansevieria;1;19,90;19,90
+T16816;2025-12-26;Magasin;Pothos Doré;1;14,90;14,90
+T16816;2025-12-26;Magasin;Ficus Lyrata;1;39,90;39,90
+T16817;2025-12-26;Magasin;Terreau Universel 40 L;1;11,90;11,90
+T16818;2025-12-26;Magasin;Coffret Cadeau Plante   ;1;44,90;44,90
+T16819;2025-12-26;Site web;Bambou Nain   ;1;17,90;17,90
+T16819;2025-12-26;Site web;Ficus Lyrata;1;39,90;39,90
+T16820;2025-12-27;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16820;2025-12-27;Magasin;Terrarium En Verre;1;34,90;34,90
+T16821;2025-12-27;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16821;2025-12-27;Site web;Monstera Deliciosa;1;29,90;29,90
+T16822;2025-12-27;Magasin;Terrarium En Verre;1;34,90;34,90
+T16823;2025-12-27;Site web;Zamioculcas;1;27,90;27,90
+T16823;2025-12-27;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16823;2025-12-27;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16824;2025-12-27;Site web;Zamioculcas;1;27,90;25,11
+T16825;2025-12-27;Site web;Terrarium En Verre;1;34,90;34,90
+T16825;2025-12-27;Site web;Ficus Lyrata;1;39,90;39,90
+T16826;2025-12-27;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T16827;2025-12-27;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16828;2025-12-27;Magasin;Pothos Doré;1;14,90;14,90
+T16829;2025-12-27;Marketplace;Pothos Doré;1;14,90;14,90
+T16829;2025-12-27;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16830;2025-12-27;Magasin;Pothos Doré;1;14,90;14,90
+T16830;2025-12-27;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16831;2025-12-27;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16832;2025-12-27;Site web;Ficus Lyrata;1;39,90;39,90
+T16832;2025-12-27;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16832;2025-12-27;Site web;Billes D'Argile 10 L;2;7,90;15,80
+T16833;2025-12-27;Magasin;Terrarium En Verre;1;34,90;34,90
+T16834;2025-12-27;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T16834;2025-12-27;Marketplace;Terrarium En Verre   ;1;34,90;34,90
+T16835;2025-12-27;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16836;2025-12-27;Magasin;Ficus Lyrata;1;39,90;39,90
+T16836;2025-12-27;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16836;2025-12-27;Magasin;Citronnier;1;49,90;49,90
+T16837;2025-12-27;Marketplace;Bougie Parfumée Figuier ;1;19,90;19,90
+T16838;2025-12-27;Site web;Sécateur Pro;1;29,90;29,90
+T16839;2025-12-27;Site web;Zamioculcas;1;27,90;27,90
+T16840;2025-12-27;Site web;Terreau Plantes Vertes 20 L  ;2;9,90;19,80
+T16840;2025-12-27;Site web;Monstera Deliciosa;1;29,90;26,91
+T16841;2025-12-27;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16842;2025-12-27;Magasin;Sansevieria;1;19,90;19,90
+T16842;2025-12-27;Magasin;Monstera Deliciosa;1;29,90;29,90
+T16843;2025-12-27;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16844;2025-12-28;Site web;Ficus Lyrata ;1;39,90;39,90
+T16845;2025-12-28;Marketplace;Hortensia;1;22,90;22,90
+T16845;2025-12-28;Marketplace;Cache-Pot Céramique Blanc;3;24,90;74,70
+T16845;2025-12-28;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16846;2025-12-28;Magasin;Terrarium En Verre;1;34,90;34,90
+T16847;2025-12-28;Site web;Gants De Jardinage ;1;9,90;9,90
+T16848;2025-12-28;Site web;Terreau Universel 40 L;1;11,90;11,90
+T16848;2025-12-28;Site web;Sansevieria;1;19,90;19,90
+T16848;2025-12-28;Site web;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T16849;2025-12-28;Magasin;Bougie Parfumée Figuier ;1;19,90;19,90
+T16850;2025-12-28;Marketplace;Calathea Orbifolia ;1;24,90;24,90
+T16850;2025-12-28;Marketplace;Hortensia;1;22,90;22,90
+T16851;2025-12-28;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16851;2025-12-28;Magasin;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T16851;2025-12-28;Magasin;Terrarium En Verre;1;34,90;34,90
+T16851;2025-12-28;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T16852;2025-12-28;Marketplace;Ficus Lyrata;1;39,90;39,90
+T16853;2025-12-28;Magasin;Terrarium En Verre;1;34,90;34,90
+T16853;2025-12-28;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16854;2025-12-28;Marketplace;Pothos Doré;1;14,90;14,90
+T16855;2025-12-28;Site web;Sansevieria;1;19,90;19,90
+T16856;2025-12-28;Site web;Sansevieria;1;19,90;19,90
+T16856;2025-12-28;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16857;2025-12-29;Site web;Pot Terre Cuite 20 Cm ;2;9,90;19,80
+T16857;2025-12-29;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T16858;2025-12-29;Site web;Rosier Grimpant;1;19,90;17,91
+T16858;2025-12-29;Site web;Zamioculcas;1;27,90;25,11
+T16859;2025-12-29;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T16859;2025-12-29;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16859;2025-12-29;Magasin;Terreau Universel 40 L;2;11,90;23,80
+T16860;2025-12-29;Site web;Calathea Orbifolia  ;1;24,90;24,90
+T16861;2025-12-29;Site web;Pothos Doré;1;14,90;14,90
+T16862;2025-12-29;Magasin;Pothos Doré;1;14,90;14,90
+T16863;2025-12-29;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16864;2025-12-29;Magasin;Billes D'Argile 10 L;1;7,90;7,90
+T16864;2025-12-29;Magasin;Sansevieria;1;19,90;19,90
+T16865;2025-12-29;Site web;Monstera Deliciosa;1;29,90;29,90
+T16866;2025-12-29;Magasin;Gants De Jardinage;1;9,90;9,90
+T16867;2025-12-29;Marketplace;Terrarium En Verre;1;34,90;34,90
+T16868;2025-12-30;Magasin;Terrarium En Verre;1;34,90;34,90
+T16868;2025-12-30;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16869;2025-12-30;Magasin;Ficus Lyrata;1;39,90;39,90
+T16870;2025-12-30;Site web;Pothos Doré;1;14,90;13,41
+T16871;2025-12-30;Site web;Arrosoir 10 L  ;1;14,90;14,90
+T16872;2025-12-30;Magasin;Calathea Orbifolia;1;24,90;24,90
+T16872;2025-12-30;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16873;2025-12-30;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+;;;;;;
+T16873;2025-12-30;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T16873;2025-12-30;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T16873;2025-12-30;Marketplace;Pothos Doré   ;1;14,90;14,90
+T16874;2025-12-30;Site web;Monstera Deliciosa;1;29,90;29,90
+T16875;2025-12-30;Site web;Sécateur Pro;1;29,90;29,90
+T16876;2025-12-30;Site web;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T16877;2025-12-30;Site web;Monstera Deliciosa ;1;29,90;29,90
+T16878;2025-12-30;Marketplace;Terrarium En Verre ;1;34,90;34,90
+T16878;2025-12-30;Marketplace;Ficus Lyrata  ;1;39,90;39,90
+T16879;2025-12-30;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T16880;2025-12-30;Site web;Gants De Jardinage;1;9,90;9,90
+T16881;2025-12-30;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T16882;2025-12-30;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T16882;2025-12-30;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16882;2025-12-30;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16883;2025-12-31;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T16884;2025-12-31;Site web;Engrais Liquide 1 L;1;8,90;8,90
+T16884;2025-12-31;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16885;2025-12-31;Magasin;Bougie Parfumée Figuier;1;19,90;18,90
+T16886;2025-12-31;Site web;Terrarium En Verre;1;34,90;34,90
+T16886;2025-12-31;Site web;Sansevieria   ;1;19,90;19,90
+T16887;2025-12-31;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16888;2025-12-31;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T16888;2025-12-31;Magasin;Terrarium En Verre;1;34,90;34,90
+T16889;2025-12-31;Magasin;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T16890;2025-12-31;Site web;Guirlande Lumineuse;1;24,90;24,90
+T16891;2025-12-31;Site web;Guirlande Lumineuse;1;24,90;22,41
+T16891;2025-12-31;Site web;Sansevieria;1;19,90;19,90
+T16891;2025-12-31;Site web;Zamioculcas ;1;27,90;27,90
+T16891;2025-12-31;Site web;Hortensia  ;1;22,90;22,90
+T16892;2025-12-31;Magasin;Terrarium En Verre;1;34,90;34,90
+T16892;2025-12-31;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T16892;2025-12-31;Magasin;Pothos Doré;1;14,90;14,90
+T16893;2025-12-31;Site web;Sansevieria;1;19,90;19,90
+T16893;2025-12-31;Site web;Rosier Grimpant;1;19,90;19,90
+T16893;2025-12-31;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T16894;2025-12-31;Magasin;Sansevieria;1;19,90;19,90
+T16895;2025-12-31;Magasin;Coffret Cadeau Plante ;1;44,90;44,90
+T16895;2025-12-31;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T16896;2025-12-31;Magasin;Sansevieria;1;19,90;19,90
+T16897;2025-12-31;Magasin;Pot Terre Cuite 35 Cm;2;19,90;39,80
+TOTAL;;;;;;19648,73

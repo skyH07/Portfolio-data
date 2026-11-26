@@ -1,0 +1,792 @@
+﻿Export logiciel caisse - L'Atelier Vert
+Période : mai 2025;;;;;;
+;;;;;;
+N_Ticket;Date;Canal;Produit;Quantité;Prix_Unitaire;Montant
+T14324;01/05/2025;Marketplace;Gants De Jardinage;1;9,90;9,90
+T14324;01/05/2025;Marketplace;Rosier Grimpant;1;19,90;19,90
+T14324;01/05/2025;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T14325;01/05/2025;Magasin;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14326;01/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14326;01/05/2025;Magasin;Rosier Grimpant  ;1;19,90;19,90
+T14326;01/05/2025;Magasin;Zamioculcas  ;1;27,90;27,90
+T14327;01/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14327;01/05/2025;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14328;01/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14328;01/05/2025;Site web;Zamioculcas;1;27,90;27,90
+T14329;01/05/2025;Magasin;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14329;01/05/2025;Magasin;Gants De Jardinage;1;9,90;9,90
+T14330;01/05/2025;Site web;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14330;01/05/2025;Site web;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14330;01/05/2025;Site web;Bougie Parfumée Figuier ;1;19,90;17,91
+T14331;01/05/2025;Site web;Sécateur Pro;1;29,90;29,90
+T14332;01/05/2025;Magasin;Billes D'Argile 10 L;2;7,90;15,80
+T14332;01/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14332;01/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14333;01/05/2025;Magasin;Lavande  ;1;8,90;8,90
+T14333;01/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14333;01/05/2025;Magasin;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14333;01/05/2025;Magasin;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T14334;02/05/2025;Site web;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14334;02/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14335;02/05/2025;Site web;Lavande;3;8,90;26,70
+T14335;02/05/2025;Site web;Bambou Nain;1;17,90;17,90
+T14335;02/05/2025;Site web;Hortensia;1;22,90;22,90
+T14335;02/05/2025;Site web;Cache-Pot Céramique Blanc;2;24,90;44,82
+T14336;02/05/2025;Site web;Zamioculcas;1;27,90;27,90
+T14336;02/05/2025;Site web;Lavande   ;3;8,90;26,70
+T14336;02/05/2025;Site web;Guirlande Lumineuse  ;1;24,90;24,90
+T14337;02/05/2025;Site web;Sansevieria;1;19,90;19,90
+T14338;02/05/2025;Magasin;Ficus Lyrata;1;39,90;39,90
+T14339;02/05/2025;Magasin;Lavande  ;1;8,90;8,90
+T14340;02/05/2025;Marketplace;Engrais Liquide 1 L   ;2;8,90;17,80
+T14341;02/05/2025;Site web;Hortensia;1;22,90;22,90
+T14342;02/05/2025;Site web;Rosier Grimpant;1;19,90;17,91
+T14342;02/05/2025;Site web;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14342;02/05/2025;Site web;Hortensia;1;22,90;22,90
+T14343;02/05/2025;Magasin;Billes D'Argile 10 L;2;7,90;15,80
+T14343;02/05/2025;Magasin;Jardinière Balcon 60 Cm;2;16,90;33,80
+T14343;02/05/2025;Magasin;Hortensia   ;1;22,90;22,90
+T14344;02/05/2025;Marketplace;Pothos Doré;1;14,90;14,90
+T14345;02/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14346;03/05/2025;Magasin;Lavande;1;8,90;8,90
+T14346;03/05/2025;Magasin;Ficus Lyrata;1;39,90;39,90
+T14347;03/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14347;03/05/2025;Magasin;Lavande;1;8,90;8,90
+T14347;03/05/2025;Magasin;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14348;03/05/2025;Site web;Olivier En Pot;1;59,90;59,90
+T14349;03/05/2025;Site web;Hortensia ;1;22,90;22,90
+T14349;03/05/2025;Site web;Zamioculcas;1;27,90;27,90
+T14349;03/05/2025;Site web;Terreau Universel 40 L   ;1;11,90;11,90
+T14350;03/05/2025;Magasin;Rosier Grimpant   ;1;19,90;19,90
+T14350;03/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14350;03/05/2025;Magasin;Lavande;1;8,90;8,90
+T14351;03/05/2025;Marketplace;Pothos Doré;1;14,90;14,90
+T14352;03/05/2025;Site web;Olivier En Pot;1;59,90;59,90
+T14352;03/05/2025;Site web;Olivier En Pot;1;59,90;59,90
+T14352;03/05/2025;Site web;Citronnier;1;49,90;49,90
+T14352;03/05/2025;Site web;Citronnier;1;49,90;49,90
+T14352;03/05/2025;Site web;Pothos Doré   ;1;14,90;14,90
+T14353;03/05/2025;Site web;Olivier En Pot;1;59,90;59,90
+T14354;03/05/2025;Site web;Arrosoir 10 L ;1;14,90;14,90
+T14355;03/05/2025;Site web;Pot Terre Cuite 20 Cm;3;9,90;29,70
+T14356;03/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14356;03/05/2025;Magasin;Ficus Lyrata;1;39,90;39,90
+T14357;03/05/2025;Magasin;Lavande;1;8,90;8,90
+T14357;03/05/2025;Magasin;Terreau Universel 40 L;1;11,90;11,90
+T14358;03/05/2025;Site web;Citronnier;1;49,90;49,90
+T14358;03/05/2025;Site web;Hortensia;1;22,90;22,90
+T14358;03/05/2025;Site web;Monstera Deliciosa ;1;29,90;29,90
+T14359;03/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14360;03/05/2025;Marketplace;Pothos Doré;1;14,90;14,90
+T14360;03/05/2025;Marketplace;Terreau Plantes Vertes 20 L  ;2;9,90;19,80
+T14361;03/05/2025;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T14361;03/05/2025;Site web;Lavande;1;8,90;8,90
+T14361;03/05/2025;Site web;Guirlande Lumineuse;1;24,90;24,90
+T14361;03/05/2025;Site web;Guirlande Lumineuse;1;24,90;24,90
+T14362;03/05/2025;Site web;Sansevieria;1;19,90;19,90
+T14362;03/05/2025;Site web;Pothos Doré;1;14,90;13,41
+T14362;03/05/2025;Site web;Cache-Pot Céramique Blanc;2;24,90;49,80
+T14363;04/05/2025;Site web;Lavande;3;8,90;24,03
+T14364;04/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14365;04/05/2025;Magasin;Citronnier ;1;49,90;49,90
+T14366;04/05/2025;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T14366;04/05/2025;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14366;04/05/2025;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14366;04/05/2025;Site web;Jardinière Balcon 60 Cm;2;16,90;33,80
+T14366;04/05/2025;Site web;Arrosoir 10 L;1;14,90;14,90
+T14367;04/05/2025;Site web;Sécateur Pro;1;29,90;29,90
+T14368;04/05/2025;Magasin;Engrais Liquide 1 L;3;8,90;26,70
+T14368;04/05/2025;Magasin;Engrais Liquide 1 L;3;8,90;26,70
+T14368;04/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14368;04/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14368;04/05/2025;Magasin;Sansevieria;1;19,90;19,90
+T14369;04/05/2025;Magasin;Jardinière Balcon 60 Cm  ;2;16,90;33,80
+T14369;04/05/2025;Magasin;Zamioculcas  ;1;27,90;27,90
+T14370;04/05/2025;Site web;Citronnier;1;49,90;49,90
+T14370;04/05/2025;Site web;Ficus Lyrata;1;39,90;39,90
+T14370;04/05/2025;Site web;Zamioculcas  ;1;27,90;27,90
+T14371;05/05/2025;Marketplace;Zamioculcas;1;27,90;27,90
+T14371;05/05/2025;Marketplace;Cache-Pot Céramique Blanc   ;1;24,90;24,90
+T14371;05/05/2025;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T14372;05/05/2025;Magasin;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14373;05/05/2025;Site web;Bougie Parfumée Figuier;1;19,90;19,90
+T14373;05/05/2025;Site web;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14374;05/05/2025;Magasin;Sécateur Pro;1;29,90;29,90
+T14375;05/05/2025;Site web;Jardinière Balcon 60 Cm;2;16,90;33,80
+T14375;05/05/2025;Site web;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14376;05/05/2025;Site web;Citronnier  ;1;49,90;49,90
+T14377;05/05/2025;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T14377;05/05/2025;Magasin;Sécateur Pro;1;29,90;29,90
+T14377;05/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14377;05/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14378;05/05/2025;Site web;Terreau Plantes Vertes 20 L;3;9,90;29,70
+T14378;05/05/2025;Site web;Engrais Liquide 1 L;2;8,90;17,80
+T14378;05/05/2025;Site web;Sansevieria;1;19,90;19,90
+T14379;05/05/2025;Site web;Citronnier;1;49,90;49,90
+T14380;05/05/2025;Marketplace;Jardinière Balcon 60 Cm;3;16,90;50,70
+T14381;05/05/2025;Magasin;Terrarium En Verre;1;34,90;33,15
+T14381;05/05/2025;Magasin;Billes D'Argile 10 L;2;7,90;15,01
+T14382;05/05/2025;Magasin;Zamioculcas;1;27,90;27,90
+T14383;05/05/2025;Magasin;Citronnier ;1;49,90;49,90
+T14384;05/05/2025;Magasin;Rosier Grimpant  ;1;19,90;19,90
+T14384;05/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14384;05/05/2025;Magasin;Sansevieria;1;19,90;19,90
+T14384;05/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,40
+T14385;05/05/2025;Site web;Calathea Orbifolia;1;24,90;24,90
+T14385;05/05/2025;Site web;Cache-Pot Céramique Blanc ;1;24,90;24,90
+T14386;05/05/2025;Marketplace;Lavande;6;8,90;53,40
+T14386;05/05/2025;Marketplace;Bambou Nain;1;17,90;17,90
+T14387;05/05/2025;Magasin;Zamioculcas;1;27,90;27,90
+T14387;05/05/2025;Magasin;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T14388;05/05/2025;Site web;Bambou Nain;1;17,90;16,11
+T14388;05/05/2025;Site web;Cache-Pot Céramique Blanc;3;24,90;74,70
+T14388;05/05/2025;Site web;Billes D'Argile 10 L;2;7,90;15,80
+T14389;05/05/2025;Site web;Lavande;1;8,90;8,01
+T14389;05/05/2025;Site web;Jardinière Balcon 60 Cm;1;16,90;15,21
+T14390;05/05/2025;Site web;Hortensia;1;22,90;22,90
+T14390;05/05/2025;Site web;Engrais Liquide 1 L;3;8,90;26,70
+T14390;05/05/2025;Site web;Pot Terre Cuite 35 Cm;3;19,90;59,70
+T14391;05/05/2025;Site web;Monstera Deliciosa;1;29,90;29,90
+T14392;06/05/2025;Site web;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14392;06/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14392;06/05/2025;Site web;Monstera Deliciosa;1;29,90;29,90
+T14392;06/05/2025;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14392;06/05/2025;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14393;06/05/2025;Site web;Bambou Nain;1;17,90;17,90
+T14393;06/05/2025;Site web;Jardinière Balcon 60 Cm;1;16,90;15,21
+T14393;06/05/2025;Site web;Terreau Universel 40 L;2;11,90;23,80
+T14394;06/05/2025;Site web;Billes D'Argile 10 L;2;7,90;15,80
+T14394;06/05/2025;Site web;Terrarium En Verre;1;34,90;34,90
+T14395;06/05/2025;Site web;Sansevieria;1;19,90;17,91
+T14395;06/05/2025;Site web;Citronnier;1;49,90;49,90
+T14396;06/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14396;06/05/2025;Site web;Billes D'Argile 10 L;3;7,90;21,33
+T14396;06/05/2025;Site web;Engrais Liquide 1 L;3;8,90;26,70
+T14397;06/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14398;06/05/2025;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T14398;06/05/2025;Magasin;Monstera Deliciosa ;1;29,90;29,90
+T14399;06/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T14399;06/05/2025;Site web;Hortensia   ;1;22,90;22,90
+T14400;06/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14401;06/05/2025;Site web;Bambou Nain;1;17,90;17,90
+T14402;06/05/2025;Site web;Bambou Nain;1;17,90;17,90
+T14402;06/05/2025;Site web;Pulvérisateur 1 L  ;1;6,90;6,90
+T14403;06/05/2025;Magasin;Lavande;1;8,90;8,90
+T14403;06/05/2025;Magasin;Billes D'Argile 10 L;1;7,90;7,50
+T14404;06/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14404;06/05/2025;Magasin;Lavande;3;8,90;26,70
+T14404;06/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14405;07/05/2025;Site web;Gants De Jardinage   ;1;9,90;9,90
+T14406;07/05/2025;Marketplace;Hortensia ;1;22,90;22,90
+T14406;07/05/2025;Marketplace;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14407;07/05/2025;Site web;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T14408;07/05/2025;Marketplace;Ficus Lyrata;1;39,90;39,90
+T14408;07/05/2025;Marketplace;Lavande;1;8,90;8,90
+T14409;07/05/2025;Magasin;Citronnier;1;49,90;49,90
+T14410;07/05/2025;Marketplace;Ficus Lyrata;1;39,90;39,90
+T14410;07/05/2025;Marketplace;Billes D'Argile 10 L;1;7,90;7,90
+T14411;07/05/2025;Magasin;Olivier En Pot;1;59,90;59,90
+T14412;07/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14412;07/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14413;07/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14413;07/05/2025;Magasin;Lavande;1;8,90;8,90
+T14413;07/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14414;08/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14415;08/05/2025;Magasin;Sansevieria;1;19,90;19,90
+T14415;08/05/2025;Magasin;Ficus Lyrata;1;39,90;39,90
+T14416;08/05/2025;Marketplace;Terrarium En Verre;1;34,90;34,90
+T14416;08/05/2025;Marketplace;Billes D'Argile 10 L;1;7,90;7,90
+T14417;08/05/2025;Magasin;Calathea Orbifolia;1;24,90;24,90
+T14417;08/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14418;08/05/2025;Site web;Terreau Universel 40 L;1;11,90;10,71
+T14418;08/05/2025;Site web;Coffret Cadeau Plante;1;44,90;40,41
+T14419;08/05/2025;Marketplace;Terreau Universel 40 L;2;11,90;23,80
+T14420;08/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14420;08/05/2025;Magasin;Terreau Universel 40 L;1;11,90;11,90
+T14420;08/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14421;08/05/2025;Site web;Billes D'Argile 10 L  ;1;7,90;7,90
+T14421;08/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T14422;08/05/2025;Site web;Bougie Parfumée Figuier;1;19,90;17,91
+T14423;08/05/2025;Site web;Olivier En Pot   ;1;59,90;59,90
+T14423;08/05/2025;Site web;Lavande;3;8,90;26,70
+T14423;08/05/2025;Site web;Pothos Doré  ;1;14,90;14,90
+T14423;08/05/2025;Site web;Pothos Doré  ;1;14,90;14,90
+T14424;08/05/2025;Magasin;Billes D'Argile 10 L;3;7,90;23,70
+T14425;08/05/2025;Site web;Rosier Grimpant;1;19,90;17,91
+T14425;08/05/2025;Site web;Rosier Grimpant;1;19,90;17,91
+T14425;08/05/2025;Site web;Terreau Plantes Vertes 20 L;1;9,90;8,91
+T14426;09/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14426;09/05/2025;Magasin;Terreau Universel 40 L;1;11,90;11,90
+T14426;09/05/2025;Magasin;Lavande;1;8,90;8,90
+T14427;09/05/2025;Site web;Engrais Liquide 1 L;2;8,90;17,80
+T14427;09/05/2025;Site web;Lavande;3;8,90;26,70
+T14428;09/05/2025;Magasin;Zamioculcas;1;27,90;27,90
+T14428;09/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14428;09/05/2025;Magasin;Lavande;1;8,90;8,90
+T14429;09/05/2025;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T14429;09/05/2025;Site web;Pot Terre Cuite 20 Cm  ;1;9,90;9,90
+T14430;09/05/2025;Magasin;Engrais Liquide 1 L;1;8,90;8,90
+T14431;09/05/2025;Site web;Arrosoir 10 L;1;14,90;14,90
+T14431;09/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14431;09/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14431;09/05/2025;Site web;Zamioculcas;1;27,90;27,90
+T14432;09/05/2025;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14433;09/05/2025;Marketplace;Jardinière Balcon 60 Cm;2;16,90;33,80
+T14434;09/05/2025;Magasin;Engrais Liquide 1 L;2;8,90;17,80
+T14434;09/05/2025;Magasin;Terreau Universel 40 L;3;11,90;35,70
+T14435;10/05/2025;Magasin;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T14435;10/05/2025;Magasin;Hortensia   ;1;22,90;22,90
+T14436;10/05/2025;Magasin;Terreau Universel 40 L;1;11,90;11,90
+T14437;10/05/2025;Site web;Lavande;6;8,90;53,40
+T14438;10/05/2025;Site web;Bougie Parfumée Figuier   ;1;19,90;17,91
+T14439;10/05/2025;Marketplace;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14439;10/05/2025;Marketplace;Arrosoir 10 L;1;14,90;14,90
+T14440;10/05/2025;Magasin;Lavande;3;8,90;26,70
+T14440;10/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14440;10/05/2025;Magasin;Calathea Orbifolia;1;24,90;24,90
+T14441;10/05/2025;Magasin;Olivier En Pot;1;59,90;59,90
+T14441;10/05/2025;Magasin;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14442;10/05/2025;Marketplace;Engrais Liquide 1 L;2;8,90;17,80
+T14443;10/05/2025;Magasin;Zamioculcas;1;27,90;27,90
+T14444;10/05/2025;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14444;10/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14445;10/05/2025;Site web;Pothos Doré;1;14,90;14,90
+T14446;10/05/2025;Site web;Terrarium En Verre;1;34,90;31,41
+T14447;10/05/2025;Magasin;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T14448;10/05/2025;Magasin;Bougie Parfumée Figuier;1;19,90;18,90
+T14449;10/05/2025;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T14449;10/05/2025;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T14449;10/05/2025;Magasin;Terrarium En Verre;1;34,90;34,90
+T14449;10/05/2025;Magasin;Cache-Pot Céramique Blanc;3;24,90;74,70
+T14449;10/05/2025;Magasin;Lavande   ;6;8,90;53,40
+T14450;10/05/2025;Marketplace;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14451;10/05/2025;Magasin;Jardinière Balcon 60 Cm   ;1;16,90;16,90
+T14452;10/05/2025;Site web;Hortensia;1;22,90;22,90
+T14453;10/05/2025;Magasin;Lavande ;1;8,90;8,90
+T14453;10/05/2025;Magasin;Terrarium En Verre;1;34,90;34,90
+T14454;10/05/2025;Magasin;Lavande;3;8,90;26,70
+T14454;10/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14454;10/05/2025;Magasin;Engrais Liquide 1 L  ;1;8,90;8,90
+T14455;10/05/2025;Marketplace;Terreau Universel 40 L;1;11,90;11,90
+T14456;10/05/2025;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T14457;10/05/2025;Site web;Pothos Doré;1;14,90;14,90
+T14457;10/05/2025;Site web;Calathea Orbifolia;1;24,90;24,90
+T14457;10/05/2025;Site web;Jardinière Balcon 60 Cm  ;2;16,90;33,80
+T14458;10/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14459;10/05/2025;Site web;Bambou Nain;1;17,90;17,90
+T14459;10/05/2025;Site web;Ficus Lyrata;1;39,90;35,91
+T14460;10/05/2025;Site web;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T14460;10/05/2025;Site web;Lavande ;6;8,90;53,40
+T14461;11/05/2025;Site web;Engrais Liquide 1 L;1;8,90;8,90
+T14461;11/05/2025;Site web;Lavande;3;8,90;26,70
+T14461;11/05/2025;Site web;Arrosoir 10 L;1;14,90;14,90
+T14462;11/05/2025;Site web;Guirlande Lumineuse ;1;24,90;24,90
+T14463;11/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14464;11/05/2025;Site web;Citronnier   ;1;49,90;49,90
+T14465;11/05/2025;Site web;Guirlande Lumineuse;1;24,90;24,90
+T14465;11/05/2025;Site web;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14465;11/05/2025;Site web;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14466;11/05/2025;Magasin;Monstera Deliciosa   ;1;29,90;29,90
+T14467;11/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14467;11/05/2025;Magasin;Hortensia  ;1;22,90;22,90
+T14467;11/05/2025;Magasin;Lavande;1;8,90;8,90
+T14467;11/05/2025;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14468;11/05/2025;Site web;Pothos Doré;1;14,90;14,90
+T14468;11/05/2025;Site web;Olivier En Pot;1;59,90;59,90
+T14469;11/05/2025;Magasin;Zamioculcas;1;27,90;27,90
+T14470;12/05/2025;Site web;Bougie Parfumée Figuier;1;19,90;17,91
+T14471;12/05/2025;Marketplace;Cache-Pot Céramique Blanc;3;24,90;74,70
+T14472;12/05/2025;Magasin;Terreau Universel 40 L;1;11,90;11,90
+T14473;12/05/2025;Marketplace;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T14473;12/05/2025;Marketplace;Rosier Grimpant;1;19,90;19,90
+T14473;12/05/2025;Marketplace;Bambou Nain   ;1;17,90;17,90
+T14474;12/05/2025;Magasin;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14474;12/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14475;12/05/2025;Site web;Terrarium En Verre;1;34,90;34,90
+T14475;12/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14475;12/05/2025;Site web;Lavande ;3;8,90;26,70
+T14475;12/05/2025;Site web;Cache-Pot Céramique Blanc ;2;24,90;49,80
+T14476;12/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14477;12/05/2025;Site web;Sécateur Pro;1;29,90;29,90
+T14477;12/05/2025;Site web;Hortensia;1;22,90;22,90
+T14477;12/05/2025;Site web;Hortensia;1;22,90;22,90
+T14477;12/05/2025;Site web;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14477;12/05/2025;Site web;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14478;12/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+;;;;;;
+T14479;12/05/2025;Magasin;Lavande;1;8,90;8,90
+T14479;12/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14480;12/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14480;12/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14480;12/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,56
+T14480;12/05/2025;Magasin;Terreau Universel 40 L;2;11,90;23,80
+T14480;12/05/2025;Magasin;Terreau Universel 40 L;2;11,90;23,80
+T14481;12/05/2025;Magasin;Engrais Liquide 1 L   ;2;8,90;17,80
+T14481;12/05/2025;Magasin;Sansevieria;1;19,90;19,90
+T14482;13/05/2025;Marketplace;Olivier En Pot  ;1;59,90;59,90
+T14482;13/05/2025;Marketplace;Lavande;3;8,90;26,70
+T14482;13/05/2025;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T14483;13/05/2025;Magasin;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14483;13/05/2025;Magasin;Hortensia   ;1;22,90;22,90
+T14484;13/05/2025;Site web;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14485;13/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14485;13/05/2025;Magasin;Gants De Jardinage;1;9,90;9,90
+T14486;13/05/2025;Site web;Citronnier;1;49,90;49,90
+T14487;13/05/2025;Site web;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T14487;13/05/2025;Site web;Terreau Universel 40 L;1;11,90;11,90
+T14488;13/05/2025;Site web;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T14489;13/05/2025;Site web;Billes D'Argile 10 L;1;7,90;7,90
+T14489;13/05/2025;Site web;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14490;13/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,21
+T14490;13/05/2025;Site web;Billes D'Argile 10 L;2;7,90;14,22
+T14490;13/05/2025;Site web;Terrarium En Verre   ;1;34,90;34,90
+T14491;14/05/2025;Marketplace;Pot Terre Cuite 20 Cm  ;1;9,90;9,90
+T14492;14/05/2025;Site web;Zamioculcas;1;27,90;27,90
+T14492;14/05/2025;Site web;Terrarium En Verre;1;34,90;31,41
+T14492;14/05/2025;Site web;Terreau Universel 40 L;2;11,90;23,80
+T14493;14/05/2025;Site web;Billes D'Argile 10 L;1;7,90;7,90
+T14494;14/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14494;14/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14494;14/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14495;14/05/2025;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T14496;14/05/2025;Site web;Pothos Doré;1;14,90;14,90
+T14497;14/05/2025;Site web;Pothos Doré   ;1;14,90;14,90
+T14498;14/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14498;14/05/2025;Magasin;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T14498;14/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14499;14/05/2025;Site web;Guirlande Lumineuse;1;24,90;24,90
+T14500;14/05/2025;Site web;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T14500;14/05/2025;Site web;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T14501;15/05/2025;Magasin;Hortensia  ;1;22,90;22,90
+T14502;15/05/2025;Marketplace;Olivier En Pot;1;59,90;59,90
+T14503;15/05/2025;Site web;Pothos Doré;1;14,90;14,90
+T14504;15/05/2025;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T14504;15/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14505;15/05/2025;Magasin;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T14506;15/05/2025;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T14507;15/05/2025;Site web;Terreau Universel 40 L ;2;11,90;23,80
+T14507;15/05/2025;Site web;Lavande;1;8,90;8,90
+T14508;15/05/2025;Marketplace;Rosier Grimpant;1;19,90;19,90
+T14509;15/05/2025;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14509;15/05/2025;Magasin;Pothos Doré ;1;14,90;14,90
+T14509;15/05/2025;Magasin;Gants De Jardinage;1;9,90;9,90
+T14510;15/05/2025;Marketplace;Engrais Liquide 1 L;1;8,90;8,90
+T14510;15/05/2025;Marketplace;Citronnier;1;49,90;49,90
+T14510;15/05/2025;Marketplace;Zamioculcas   ;1;27,90;27,90
+T14511;15/05/2025;Magasin;Pot Terre Cuite 35 Cm ;1;19,90;19,90
+T14511;15/05/2025;Magasin;Lavande;1;8,90;8,90
+T14512;15/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14512;15/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14513;15/05/2025;Marketplace;Zamioculcas;1;27,90;27,90
+T14513;15/05/2025;Marketplace;Pothos Doré;1;14,90;14,90
+T14514;16/05/2025;Site web;Lavande;1;8,90;8,90
+T14515;16/05/2025;Magasin;Billes D'Argile 10 L;2;7,90;15,80
+T14515;16/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14516;16/05/2025;Magasin;Gants De Jardinage;1;9,90;9,90
+T14517;16/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14518;16/05/2025;Site web;Hortensia;1;22,90;20,61
+T14518;16/05/2025;Site web;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T14518;16/05/2025;Site web;Calathea Orbifolia;1;24,90;24,90
+T14518;16/05/2025;Site web;Billes D'Argile 10 L;1;7,90;7,90
+T14519;16/05/2025;Magasin;Citronnier;1;49,90;49,90
+T14519;16/05/2025;Magasin;Sansevieria;1;19,90;19,90
+T14520;16/05/2025;Site web;Engrais Liquide 1 L;1;8,90;8,90
+T14520;16/05/2025;Site web;Bougie Parfumée Figuier;1;19,90;17,91
+T14521;16/05/2025;Site web;Lavande;3;8,90;26,70
+T14521;16/05/2025;Site web;Olivier En Pot ;1;59,90;59,90
+T14522;16/05/2025;Magasin;Sansevieria;1;19,90;19,90
+T14522;16/05/2025;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T14522;16/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14523;16/05/2025;Magasin;Citronnier;1;49,90;47,40
+T14524;16/05/2025;Site web;Cache-Pot Céramique Blanc;2;24,90;49,80
+T14524;16/05/2025;Site web;Terreau Universel 40 L;1;11,90;11,90
+T14524;16/05/2025;Site web;Zamioculcas;1;27,90;27,90
+T14525;16/05/2025;Marketplace;Engrais Liquide 1 L;1;8,90;8,90
+T14525;16/05/2025;Marketplace;Engrais Liquide 1 L;1;8,90;8,90
+T14526;16/05/2025;Site web;Lavande;1;8,90;8,90
+T14527;16/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14528;16/05/2025;Marketplace;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14529;16/05/2025;Magasin;Lavande;6;8,90;53,40
+T14529;16/05/2025;Magasin;Calathea Orbifolia;1;24,90;24,90
+T14530;16/05/2025;Site web;Hortensia;1;22,90;22,90
+T14531;16/05/2025;Magasin;Engrais Liquide 1 L;2;8,90;17,80
+T14532;16/05/2025;Marketplace;Cache-Pot Céramique Blanc;2;24,90;49,80
+T14533;17/05/2025;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T14534;17/05/2025;Site web;Lavande;3;8,90;26,70
+T14535;17/05/2025;Marketplace;Ficus Lyrata;1;39,90;39,90
+T14535;17/05/2025;Marketplace;Lavande;3;8,90;26,70
+T14535;17/05/2025;Marketplace;Sansevieria;1;19,90;19,90
+T14536;17/05/2025;Marketplace;Hortensia;1;22,90;22,90
+T14536;17/05/2025;Marketplace;Billes D'Argile 10 L;1;7,90;7,90
+T14536;17/05/2025;Marketplace;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14537;17/05/2025;Magasin;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14538;17/05/2025;Site web;Coffret Cadeau Plante;1;44,90;44,90
+T14539;17/05/2025;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T14540;17/05/2025;Marketplace;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14541;17/05/2025;Marketplace;Pot Terre Cuite 35 Cm;3;19,90;59,70
+T14542;17/05/2025;Site web;Bambou Nain;1;17,90;17,90
+T14543;17/05/2025;Magasin;Jardinière Balcon 60 Cm;2;16,90;33,80
+T14544;17/05/2025;Site web;Sansevieria;1;19,90;19,90
+T14545;17/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T14546;17/05/2025;Site web;Hortensia ;1;22,90;22,90
+T14547;17/05/2025;Site web;Jardinière Balcon 60 Cm;1;16,90;15,21
+T14548;17/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14548;17/05/2025;Magasin;Engrais Liquide 1 L;3;8,90;26,70
+T14549;18/05/2025;Marketplace;Calathea Orbifolia   ;1;24,90;24,90
+T14550;18/05/2025;Marketplace;Lavande;6;8,90;53,40
+T14551;18/05/2025;Magasin;Calathea Orbifolia;1;24,90;24,90
+T14551;18/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14551;18/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14551;18/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14551;18/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14552;18/05/2025;Marketplace;Lavande   ;1;8,90;8,90
+T14552;18/05/2025;Marketplace;Lavande   ;1;8,90;8,90
+T14553;18/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14554;18/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14554;18/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14554;18/05/2025;Magasin;Lavande;3;8,90;26,70
+T14555;18/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14555;18/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14556;18/05/2025;Marketplace;Lavande;3;8,90;26,70
+T14557;18/05/2025;Site web;Lavande;1;8,90;8,90
+T14557;18/05/2025;Site web;Lavande;1;8,90;8,90
+T14558;18/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14558;18/05/2025;Magasin;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T14559;18/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14560;18/05/2025;Marketplace;Arrosoir 10 L;1;14,90;14,90
+T14560;18/05/2025;Marketplace;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T14560;18/05/2025;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T14561;18/05/2025;Marketplace;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14561;18/05/2025;Marketplace;Sansevieria;1;19,90;19,90
+T14562;18/05/2025;Marketplace;Cache-Pot Céramique Blanc;2;24,90;49,80
+T14563;19/05/2025;Marketplace;Hortensia;1;22,90;22,90
+T14564;19/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14564;19/05/2025;Site web;Terreau Plantes Vertes 20 L;3;9,90;29,70
+T14564;19/05/2025;Site web;Terrarium En Verre;1;34,90;34,90
+T14565;19/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14566;19/05/2025;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T14566;19/05/2025;Marketplace;Hortensia;1;22,90;22,90
+T14566;19/05/2025;Marketplace;Pot Terre Cuite 35 Cm   ;3;19,90;59,70
+T14566;19/05/2025;Marketplace;Lavande;6;8,90;53,40
+T14567;19/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14568;19/05/2025;Site web;Bambou Nain;1;17,90;17,90
+T14568;19/05/2025;Site web;Bougie Parfumée Figuier ;1;19,90;19,90
+T14569;19/05/2025;Magasin;Terreau Universel 40 L;1;11,90;11,90
+T14569;19/05/2025;Magasin;Jardinière Balcon 60 Cm;2;16,90;33,80
+T14569;19/05/2025;Magasin;Citronnier;1;49,90;49,90
+T14570;19/05/2025;Site web;Pot Terre Cuite 20 Cm;3;9,90;29,70
+T14570;19/05/2025;Site web;Engrais Liquide 1 L;1;8,90;8,90
+T14570;19/05/2025;Site web;Jardinière Balcon 60 Cm;3;16,90;50,70
+T14570;19/05/2025;Site web;Ficus Lyrata;1;39,90;39,90
+T14571;19/05/2025;Magasin;Rosier Grimpant;1;19,90;18,90
+T14571;19/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14572;19/05/2025;Magasin;Lavande   ;3;8,90;26,70
+T14572;19/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14572;19/05/2025;Magasin;Calathea Orbifolia;1;24,90;24,90
+T14572;19/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14573;19/05/2025;Magasin;Citronnier;1;49,90;49,90
+T14573;19/05/2025;Magasin;Terreau Universel 40 L;1;11,90;11,90
+T14574;20/05/2025;Magasin;Lavande;1;8,90;8,90
+T14574;20/05/2025;Magasin;Engrais Liquide 1 L;2;8,90;17,80
+T14574;20/05/2025;Magasin;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14575;20/05/2025;Marketplace;Citronnier;1;49,90;49,90
+T14576;20/05/2025;Marketplace;Terreau Universel 40 L;1;11,90;11,90
+T14576;20/05/2025;Marketplace;Engrais Liquide 1 L;1;8,90;8,90
+T14577;20/05/2025;Site web;Lavande;3;8,90;26,70
+T14578;20/05/2025;Site web;Billes D'Argile 10 L  ;1;7,90;7,11
+T14579;20/05/2025;Magasin;Pothos Doré;1;14,90;14,16
+T14580;20/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T14580;20/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T14581;20/05/2025;Magasin;Bougie Parfumée Figuier;1;19,90;18,90
+T14582;20/05/2025;Site web;Hortensia;1;22,90;20,61
+T14582;20/05/2025;Site web;Ficus Lyrata;1;39,90;39,90
+T14582;20/05/2025;Site web;Jardinière Balcon 60 Cm;2;16,90;33,80
+T14583;20/05/2025;Magasin;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14583;20/05/2025;Magasin;Zamioculcas;1;27,90;27,90
+T14584;20/05/2025;Site web;Sansevieria;1;19,90;19,90
+T14585;20/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14585;20/05/2025;Magasin;Olivier En Pot;1;59,90;59,90
+T14586;20/05/2025;Site web;Pulvérisateur 1 L  ;1;6,90;6,90
+T14587;20/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T14588;21/05/2025;Magasin;Sécateur Pro;1;29,90;29,90
+T14589;21/05/2025;Site web;Calathea Orbifolia;1;24,90;24,90
+T14590;21/05/2025;Site web;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14590;21/05/2025;Site web;Lavande;1;8,90;8,90
+T14590;21/05/2025;Site web;Lavande;1;8,90;8,90
+T14591;21/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14592;21/05/2025;Marketplace;Pothos Doré;1;14,90;14,90
+T14593;21/05/2025;Site web;Jardinière Balcon 60 Cm;3;16,90;50,70
+T14594;21/05/2025;Marketplace;Engrais Liquide 1 L;2;8,90;17,80
+T14595;21/05/2025;Site web;Terrarium En Verre;1;34,90;34,90
+T14596;21/05/2025;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T14596;21/05/2025;Magasin;Gants De Jardinage;1;9,90;9,90
+T14597;21/05/2025;Magasin;Terreau Universel 40 L;2;11,90;23,80
+T14597;21/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14598;21/05/2025;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14599;21/05/2025;Marketplace;Monstera Deliciosa;1;29,90;29,90
+T14599;21/05/2025;Marketplace;Engrais Liquide 1 L;1;8,90;8,90
+T14599;21/05/2025;Marketplace;Citronnier;1;49,90;49,90
+T14600;21/05/2025;Site web;Hortensia ;1;22,90;20,61
+T14600;21/05/2025;Site web;Hortensia ;1;22,90;20,61
+T14600;21/05/2025;Site web;Lavande;3;8,90;26,70
+T14600;21/05/2025;Site web;Sécateur Pro;1;29,90;29,90
+T14600;21/05/2025;Site web;Cache-Pot Céramique Blanc;3;24,90;74,70
+T14601;21/05/2025;Magasin;Lavande;1;8,90;8,90
+T14601;21/05/2025;Magasin;Zamioculcas ;1;27,90;27,90
+T14602;21/05/2025;Marketplace;Gants De Jardinage;1;9,90;9,90
+T14602;21/05/2025;Marketplace;Pothos Doré;1;14,90;14,90
+T14602;21/05/2025;Marketplace;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14603;21/05/2025;Magasin;Ficus Lyrata;1;39,90;39,90
+T14603;21/05/2025;Magasin;Billes D'Argile 10 L;1;7,90;7,90
+T14604;21/05/2025;Magasin;Terreau Plantes Vertes 20 L;3;9,90;29,70
+T14604;21/05/2025;Magasin;Olivier En Pot;1;59,90;59,90
+T14605;22/05/2025;Site web;Pot Terre Cuite 35 Cm;2;19,90;35,82
+T14605;22/05/2025;Site web;Terreau Universel 40 L;1;11,90;11,90
+T14606;22/05/2025;Marketplace;Terreau Universel 40 L;1;11,90;11,90
+T14606;22/05/2025;Marketplace;Pulvérisateur 1 L ;1;6,90;6,90
+T14607;22/05/2025;Site web;Pot Terre Cuite 20 Cm;1;9,90;8,91
+T14607;22/05/2025;Site web;Billes D'Argile 10 L;3;7,90;23,70
+T14608;22/05/2025;Marketplace;Lavande ;3;8,90;26,70
+T14609;22/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14609;22/05/2025;Magasin;Bougie Parfumée Figuier;1;19,90;19,90
+T14610;22/05/2025;Magasin;Gants De Jardinage;1;9,90;9,90
+T14610;22/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14610;22/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14611;22/05/2025;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14612;22/05/2025;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T14613;23/05/2025;Magasin;Engrais Liquide 1 L;1;8,90;8,90
+T14614;23/05/2025;Site web;Calathea Orbifolia ;1;24,90;24,90
+T14614;23/05/2025;Site web;Zamioculcas;1;27,90;27,90
+T14615;23/05/2025;Marketplace;Pothos Doré;1;14,90;14,90
+T14616;23/05/2025;Marketplace;Terrarium En Verre;1;34,90;34,90
+T14616;23/05/2025;Marketplace;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14616;23/05/2025;Marketplace;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14617;23/05/2025;Marketplace;Lavande;1;8,90;8,90
+T14617;23/05/2025;Marketplace;Bougie Parfumée Figuier;1;19,90;19,90
+T14618;23/05/2025;Site web;Lavande;3;8,90;26,70
+T14618;23/05/2025;Site web;Guirlande Lumineuse;1;24,90;24,90
+T14618;23/05/2025;Site web;Sécateur Pro;1;29,90;29,90
+T14619;23/05/2025;Magasin;Citronnier;1;49,90;49,90
+T14619;23/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14619;23/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14620;23/05/2025;Marketplace;Sécateur Pro;1;29,90;29,90
+T14621;23/05/2025;Marketplace;Arrosoir 10 L;1;14,90;14,90
+T14621;23/05/2025;Marketplace;Billes D'Argile 10 L;2;7,90;15,80
+T14622;23/05/2025;Marketplace;Bambou Nain;1;17,90;17,90
+T14622;23/05/2025;Marketplace;Rosier Grimpant;1;19,90;19,90
+T14622;23/05/2025;Marketplace;Engrais Liquide 1 L;2;8,90;17,80
+T14622;23/05/2025;Marketplace;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T14623;23/05/2025;Magasin;Billes D'Argile 10 L;1;7,90;7,90
+T14623;23/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14624;24/05/2025;Site web;Bambou Nain;1;17,90;16,11
+T14625;24/05/2025;Site web;Terreau Universel 40 L;1;11,90;11,90
+T14625;24/05/2025;Site web;Terreau Plantes Vertes 20 L;2;9,90;17,82
+T14625;24/05/2025;Site web;Zamioculcas;1;27,90;27,90
+T14625;24/05/2025;Site web;Pothos Doré;1;14,90;14,90
+T14626;24/05/2025;Magasin;Lavande;1;8,90;8,90
+T14626;24/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14626;24/05/2025;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14627;24/05/2025;Site web;Billes D'Argile 10 L;1;7,90;7,90
+T14628;24/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14629;24/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14629;24/05/2025;Magasin;Pot Terre Cuite 20 Cm   ;1;9,90;9,90
+T14630;24/05/2025;Site web;Olivier En Pot;1;59,90;59,90
+T14631;24/05/2025;Magasin;Terreau Universel 40 L;2;11,90;23,80
+T14632;24/05/2025;Site web;Pothos Doré;1;14,90;14,90
+T14632;24/05/2025;Site web;Lavande;1;8,90;8,90
+T14632;24/05/2025;Site web;Cache-Pot Céramique Blanc;3;24,90;74,70
+T14633;24/05/2025;Magasin;Terreau Universel 40 L;2;11,90;23,80
+T14634;24/05/2025;Magasin;Pothos Doré   ;1;14,90;14,90
+T14635;24/05/2025;Site web;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T14635;24/05/2025;Site web;Hortensia;1;22,90;22,90
+T14636;24/05/2025;Marketplace;Pothos Doré;1;14,90;14,90
+T14636;24/05/2025;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T14637;24/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14638;24/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14638;24/05/2025;Magasin;Arrosoir 10 L;1;14,90;14,90
+T14638;24/05/2025;Magasin;Billes D'Argile 10 L;2;7,90;15,80
+T14639;24/05/2025;Magasin;Pot Terre Cuite 35 Cm ;2;19,90;39,80
+T14639;24/05/2025;Magasin;Lavande;6;8,90;53,40
+T14640;24/05/2025;Site web;Gants De Jardinage;1;9,90;9,90
+T14640;24/05/2025;Site web;Billes D'Argile 10 L;2;7,90;15,80
+T14641;25/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14641;25/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14642;25/05/2025;Magasin;Terrarium En Verre ;1;34,90;34,90
+T14642;25/05/2025;Magasin;Sansevieria;1;19,90;19,90
+T14643;25/05/2025;Magasin;Sécateur Pro;1;29,90;28,40
+T14644;25/05/2025;Marketplace;Billes D'Argile 10 L;1;7,90;7,90
+T14645;25/05/2025;Site web;Lavande;1;8,90;8,90
+T14646;25/05/2025;Site web;Terreau Universel 40 L;1;11,90;11,90
+T14646;25/05/2025;Site web;Pothos Doré;1;14,90;14,90
+T14647;25/05/2025;Marketplace;Lavande;1;8,90;8,90
+T14647;25/05/2025;Marketplace;Jardinière Balcon 60 Cm;3;16,90;50,70
+T14647;25/05/2025;Marketplace;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T14647;25/05/2025;Marketplace;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14648;25/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14649;25/05/2025;Magasin;Hortensia   ;1;22,90;22,90
+T14649;25/05/2025;Magasin;Rosier Grimpant  ;1;19,90;19,90
+T14649;25/05/2025;Magasin;Billes D'Argile 10 L;1;7,90;7,50
+T14650;25/05/2025;Site web;Sécateur Pro;1;29,90;26,91
+T14650;25/05/2025;Site web;Citronnier;1;49,90;44,91
+T14651;25/05/2025;Site web;Lavande;3;8,90;26,70
+T14652;25/05/2025;Site web;Gants De Jardinage;1;9,90;9,90
+T14653;26/05/2025;Magasin;Rosier Grimpant ;1;19,90;19,90
+T14653;26/05/2025;Magasin;Ficus Lyrata;1;39,90;39,90
+T14653;26/05/2025;Magasin;Sansevieria;1;19,90;19,90
+T14653;26/05/2025;Magasin;Citronnier;1;49,90;49,90
+T14654;26/05/2025;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14655;26/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14655;26/05/2025;Magasin;Gants De Jardinage;1;9,90;9,90
+T14655;26/05/2025;Magasin;Calathea Orbifolia   ;1;24,90;24,90
+T14655;26/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14656;26/05/2025;Magasin;Terreau Plantes Vertes 20 L;1;9,90;9,40
+T14657;26/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14658;26/05/2025;Site web;Rosier Grimpant;1;19,90;19,90
+T14659;26/05/2025;Marketplace;Zamioculcas;1;27,90;27,90
+T14660;26/05/2025;Magasin;Pot Terre Cuite 35 Cm ;1;19,90;19,90
+T14660;26/05/2025;Magasin;Engrais Liquide 1 L;2;8,90;17,80
+T14660;26/05/2025;Magasin;Pot Terre Cuite 20 Cm;3;9,90;29,70
+T14661;26/05/2025;Marketplace;Hortensia  ;1;22,90;22,90
+T14661;26/05/2025;Marketplace;Terreau Universel 40 L;1;11,90;11,90
+T14661;26/05/2025;Marketplace;Lavande;1;8,90;8,90
+T14662;26/05/2025;Site web;Lavande;1;8,90;8,90
+T14662;26/05/2025;Site web;Zamioculcas;1;27,90;27,90
+T14662;26/05/2025;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14663;26/05/2025;Site web;Cache-Pot Céramique Blanc;3;24,90;74,70
+T14664;26/05/2025;Site web;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T14665;26/05/2025;Magasin;Terreau Universel 40 L   ;1;11,90;11,90
+T14665;26/05/2025;Magasin;Pot Terre Cuite 35 Cm  ;1;19,90;19,90
+T14665;26/05/2025;Magasin;Lavande;3;8,90;26,70
+T14665;26/05/2025;Magasin;Bambou Nain   ;1;17,90;17,90
+T14666;26/05/2025;Site web;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T14666;26/05/2025;Site web;Arrosoir 10 L;1;14,90;14,90
+T14667;26/05/2025;Marketplace;Lavande;6;8,90;53,40
+T14667;26/05/2025;Marketplace;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14668;27/05/2025;Marketplace;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14669;27/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14670;27/05/2025;Magasin;Calathea Orbifolia  ;1;24,90;24,90
+T14670;27/05/2025;Magasin;Citronnier;1;49,90;49,90
+T14671;27/05/2025;Marketplace;Bougie Parfumée Figuier   ;1;19,90;19,90
+T14671;27/05/2025;Marketplace;Pothos Doré;1;14,90;14,90
+T14671;27/05/2025;Marketplace;Lavande;1;8,90;8,90
+T14671;27/05/2025;Marketplace;Arrosoir 10 L;1;14,90;14,90
+T14672;27/05/2025;Site web;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14673;27/05/2025;Marketplace;Pot Terre Cuite 35 Cm;2;19,90;39,80
+T14674;27/05/2025;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T14674;27/05/2025;Marketplace;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14674;27/05/2025;Marketplace;Terreau Universel 40 L;2;11,90;23,80
+T14675;27/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14676;27/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14677;27/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14677;27/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14677;27/05/2025;Magasin;Lavande  ;3;8,90;26,70
+T14678;27/05/2025;Site web;Terreau Universel 40 L  ;1;11,90;11,90
+T14678;27/05/2025;Site web;Pot Terre Cuite 20 Cm   ;2;9,90;17,82
+T14679;28/05/2025;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T14679;28/05/2025;Marketplace;Sansevieria;1;19,90;19,90
+T14679;28/05/2025;Marketplace;Engrais Liquide 1 L;1;8,90;8,90
+T14679;28/05/2025;Marketplace;Gants De Jardinage ;1;9,90;9,90
+T14680;28/05/2025;Magasin;Gants De Jardinage   ;1;9,90;9,90
+T14681;28/05/2025;Marketplace;Terrarium En Verre;1;34,90;34,90
+T14681;28/05/2025;Marketplace;Pulvérisateur 1 L;1;6,90;6,90
+T14681;28/05/2025;Marketplace;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T14681;28/05/2025;Marketplace;Coffret Cadeau Plante;1;44,90;44,90
+T14682;28/05/2025;Magasin;Pothos Doré;1;14,90;14,90
+T14682;28/05/2025;Magasin;Pulvérisateur 1 L;1;6,90;6,90
+T14683;28/05/2025;Site web;Arrosoir 10 L  ;1;14,90;14,90
+T14684;28/05/2025;Site web;Terreau Universel 40 L;1;11,90;11,90
+T14684;28/05/2025;Site web;Terreau Plantes Vertes 20 L;2;9,90;19,80
+T14685;28/05/2025;Site web;Terreau Universel 40 L;1;11,90;11,90
+T14686;28/05/2025;Site web;Monstera Deliciosa;1;29,90;29,90
+T14687;28/05/2025;Marketplace;Engrais Liquide 1 L;1;8,90;8,90
+T14687;28/05/2025;Marketplace;Lavande;6;8,90;53,40
+T14687;28/05/2025;Marketplace;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T14688;28/05/2025;Magasin;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14688;28/05/2025;Magasin;Lavande;1;8,90;8,90
+T14689;28/05/2025;Site web;Olivier En Pot;1;59,90;59,90
+T14690;28/05/2025;Marketplace;Calathea Orbifolia;1;24,90;24,90
+T14690;28/05/2025;Marketplace;Gants De Jardinage;1;9,90;9,90
+T14690;28/05/2025;Marketplace;Pothos Doré;1;14,90;14,90
+T14691;28/05/2025;Site web;Hortensia;1;22,90;22,90
+T14692;28/05/2025;Magasin;Lavande;1;8,90;8,90
+T14693;28/05/2025;Marketplace;Rosier Grimpant;1;19,90;19,90
+T14694;29/05/2025;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14694;29/05/2025;Magasin;Olivier En Pot;1;59,90;59,90
+T14695;29/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T14695;29/05/2025;Site web;Arrosoir 10 L;1;14,90;14,90
+T14696;29/05/2025;Marketplace;Arrosoir 10 L;1;14,90;14,90
+T14697;29/05/2025;Magasin;Ficus Lyrata   ;1;39,90;39,90
+T14698;29/05/2025;Site web;Pot Terre Cuite 35 Cm;3;19,90;53,73
+T14698;29/05/2025;Site web;Terreau Plantes Vertes 20 L  ;2;9,90;19,80
+T14699;29/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14699;29/05/2025;Magasin;Citronnier;1;49,90;49,90
+T14699;29/05/2025;Magasin;Ficus Lyrata;1;39,90;39,90
+T14700;29/05/2025;Site web;Lavande;1;8,90;8,90
+T14701;29/05/2025;Magasin;Coffret Cadeau Plante;1;44,90;44,90
+T14702;29/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14703;29/05/2025;Magasin;Citronnier;1;49,90;49,90
+T14704;29/05/2025;Site web;Lavande;3;8,90;26,70
+T14704;29/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T14705;30/05/2025;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14706;30/05/2025;Site web;Bambou Nain;1;17,90;17,90
+T14706;30/05/2025;Site web;Pot Terre Cuite 20 Cm;2;9,90;19,80
+T14707;30/05/2025;Magasin;Lavande;1;8,90;8,46
+T14708;30/05/2025;Marketplace;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14708;30/05/2025;Marketplace;Terreau Plantes Vertes 20 L;1;9,90;9,90
+T14709;30/05/2025;Magasin;Hortensia;1;22,90;22,90
+T14710;30/05/2025;Magasin;Rosier Grimpant  ;1;19,90;19,90
+T14711;30/05/2025;Magasin;Hortensia ;1;22,90;22,90
+T14711;30/05/2025;Magasin;Lavande;1;8,90;8,90
+T14712;30/05/2025;Marketplace;Olivier En Pot ;1;59,90;59,90
+T14713;30/05/2025;Magasin;Lavande;3;8,90;26,70
+T14714;30/05/2025;Site web;Citronnier;1;49,90;44,91
+T14715;30/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T14715;30/05/2025;Site web;Bougie Parfumée Figuier;1;19,90;17,91
+T14716;31/05/2025;Magasin;Bambou Nain   ;1;17,90;17,90
+T14716;31/05/2025;Magasin;Terrarium En Verre;1;34,90;34,90
+T14716;31/05/2025;Magasin;Lavande;1;8,90;8,90
+T14717;31/05/2025;Marketplace;Bambou Nain;1;17,90;17,90
+T14718;31/05/2025;Magasin;Zamioculcas;1;27,90;27,90
+T14719;31/05/2025;Site web;Bambou Nain;1;17,90;17,90
+T14720;31/05/2025;Site web;Lavande;3;8,90;26,70
+T14720;31/05/2025;Site web;Sansevieria;1;19,90;19,90
+T14720;31/05/2025;Site web;Jardinière Balcon 60 Cm;2;16,90;33,80
+T14721;31/05/2025;Site web;Engrais Liquide 1 L;1;8,90;8,90
+T14721;31/05/2025;Site web;Lavande;1;8,90;8,90
+T14722;31/05/2025;Site web;Gants De Jardinage;1;9,90;9,90
+T14722;31/05/2025;Site web;Engrais Liquide 1 L;2;8,90;17,80
+T14722;31/05/2025;Site web;Pulvérisateur 1 L;1;6,90;6,90
+T14723;31/05/2025;Magasin;Pot Terre Cuite 20 Cm;1;9,90;9,90
+T14724;31/05/2025;Site web;Lavande;1;8,90;8,01
+T14725;31/05/2025;Site web;Ficus Lyrata;1;39,90;39,90
+T14725;31/05/2025;Site web;Pothos Doré;1;14,90;13,41
+T14726;31/05/2025;Magasin;Lavande;3;8,90;26,70
+T14726;31/05/2025;Magasin;Rosier Grimpant;1;19,90;19,90
+T14727;31/05/2025;Marketplace;Cache-Pot Céramique Blanc;1;24,90;24,90
+T14728;31/05/2025;Magasin;Citronnier;1;49,90;49,90
+T14728;31/05/2025;Magasin;Billes D'Argile 10 L;2;7,90;15,80
+T14728;31/05/2025;Magasin;Arrosoir 10 L;1;14,90;14,90
+T14729;31/05/2025;Site web;Gants De Jardinage;1;9,90;9,90
+T14729;31/05/2025;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14730;31/05/2025;Marketplace;Guirlande Lumineuse ;1;24,90;24,90
+T14730;31/05/2025;Marketplace;Olivier En Pot;1;59,90;59,90
+T14731;31/05/2025;Site web;Billes D'Argile 10 L;1;7,90;7,90
+T14731;31/05/2025;Site web;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14731;31/05/2025;Site web;Sécateur Pro;1;29,90;29,90
+T14732;31/05/2025;Magasin;Engrais Liquide 1 L   ;3;8,90;26,70
+T14732;31/05/2025;Magasin;Terreau Plantes Vertes 20 L ;1;9,90;9,90
+T14733;31/05/2025;Magasin;Sansevieria;1;19,90;18,90
+T14733;31/05/2025;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14734;31/05/2025;Site web;Billes D'Argile 10 L ;1;7,90;7,90
+T14735;31/05/2025;Magasin;Pothos Doré ;1;14,90;14,90
+T14735;31/05/2025;Magasin;Monstera Deliciosa;1;29,90;29,90
+T14736;31/05/2025;Site web;Guirlande Lumineuse;1;24,90;24,90
+T14736;31/05/2025;Site web;Pot Terre Cuite 35 Cm;1;19,90;19,90
+T14737;31/05/2025;Magasin;Lavande;3;8,90;26,70
+T14737;31/05/2025;Magasin;Jardinière Balcon 60 Cm;1;16,90;16,90
+T14737;31/05/2025;Magasin;Guirlande Lumineuse;1;24,90;24,90
+T14737;31/05/2025;Magasin;Hortensia  ;1;22,90;22,90
+T14738;31/05/2025;Magasin;Zamioculcas;1;27,90;27,90
+T14738;31/05/2025;Magasin;Bambou Nain;1;17,90;17,90
+T14738;31/05/2025;Magasin;Calathea Orbifolia;1;24,90;24,90
+TOTAL;;;;;;17680,26
